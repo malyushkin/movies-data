@@ -3,6 +3,8 @@ import setuptools
 setuptools.setup(
     name="movies-statistics",
     install_requires=[
-        "requests"
+        "lxml",
+        "requests",
+        "pandas"
     ],
 )
