@@ -1,17 +1,17 @@
 import pandas as pd
 import re
 import requests
-
 from lxml import etree
+from os import environ
 
-from config import COOKIES, KP_LIST_SIZE, KP_URL, KP_USER_LIST_URL, KP_USER_ID
+from config import KP_LIST_SIZE, KP_URL, KP_USER_LIST_URL, KP_USER_ID
 
 
 def get_kp_dom(url) -> etree._Element:
     """Get Kinopoisk data"""
 
     headers = {
-        "cookie": COOKIES,
+        "cookie": environ["YANDEX_COOKIE"],
         "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
                       "AppleWebKit/537.36 (KHTML, like Gecko) "
                       "Chrome/106.0.0.0 Safari/537.36"
