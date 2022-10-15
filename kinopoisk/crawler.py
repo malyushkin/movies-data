@@ -1,6 +1,7 @@
 import pandas as pd
 import re
 import requests
+from datetime import datetime
 from lxml import etree
 from os import environ
 
@@ -60,20 +61,20 @@ def crawler() -> pd.DataFrame:
     else:
         raise Exception("Page range parse problem!")
 
-    kd_df = pd.DataFrame(parse_kp_list(kp_dom))
+    kp_df = pd.DataFrame(parse_kp_list(kp_dom))
 
     if movies_count > KP_LIST_SIZE:
         page_num += 1
 
         while page_num <= (movies_count // KP_LIST_SIZE) + 1:
             kp_dom = get_kp_dom(KP_USER_LIST_URL.format(user=KP_USER_ID, page_num=page_num))
-            kd_df = pd.concat([kd_df, pd.DataFrame(parse_kp_list(kp_dom))], ignore_index=True)
+            kp_df = pd.concat([kp_df, pd.DataFrame(parse_kp_list(kp_dom))], ignore_index=True)
 
             page_num += 1
 
-    return kd_df
+    return kp_df
 
 
 if __name__ == "__main__":
     data = crawler()
-    data.to_csv("kinopoisk_test.csv")
+    data.to_csv(f"{datetime.now().date()}_kinopoisk-data.csv")
