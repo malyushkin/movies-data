@@ -1,4 +1,4 @@
-kinopoisk_id,url,name,full_name_rus,vote_date,vote
+kp_id,pk_url,name,kp_full_name,vote_date,vote
 342,https://www.kinopoisk.ru/film/342/,Pulp Fiction,Криминальное чтиво (1994),15.10.2022,8
 5930,https://www.kinopoisk.ru/film/5930/,Lost in Translation,Трудности перевода (2003),08.10.2022,7
 428683,https://www.kinopoisk.ru/film/428683/,Army of the Dead,Армия мертвецов (2021),17.09.2022,7
