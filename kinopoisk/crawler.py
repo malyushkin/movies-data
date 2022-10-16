@@ -78,4 +78,4 @@ if __name__ == "__main__":
     data = crawler()
 
     if data.shape[0]:
-        data.to_csv(f"{datetime.now()}_votes.csv", index=None)
+        data.to_csv(f"{datetime.now().date()}_votes.csv", index=None)
