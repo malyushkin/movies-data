@@ -32,10 +32,10 @@ def parse_kp_list(dom: etree._Element) -> list:
 
     list_data = [
         {
-            "kinopoisk_id": item.xpath("div[@class='info']/div[@class='nameRus']/a")[0].attrib["href"].split("/")[-2],
-            "url": KP_URL.format(path=item.xpath("div[@class='info']/div[@class='nameRus']/a")[0].attrib["href"]),
+            "kp_id": item.xpath("div[@class='info']/div[@class='nameRus']/a")[0].attrib["href"].split("/")[-2],
+            "kp_url": KP_URL.format(path=item.xpath("div[@class='info']/div[@class='nameRus']/a")[0].attrib["href"]),
+            "kp_full_name": item.xpath("div[@class='info']/div[@class='nameRus']/a")[0].text,
             "name": item.xpath("div[@class='info']/div[@class='nameEng']")[0].text,
-            "full_name_rus": item.xpath("div[@class='info']/div[@class='nameRus']/a")[0].text,
             "vote_date": item.xpath("div[@class='date']")[0].text.split(", ")[0],
             "vote": int(re.search(
                 pattern=r"rating: [^,]*",
