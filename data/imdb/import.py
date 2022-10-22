@@ -51,7 +51,7 @@ if __name__ == "__main__":
     title_col = "imdb"
     rating_col = "vote"
 
-    movies_data = read_data(file_path="../kinopoisk/2022-10-20_kinopoisk-data.csv", columns=[title_col, rating_col])
+    movies_data = read_data(file_path="../kinopoisk/csv/2022-10-20_kinopoisk-data.csv", columns=[title_col, rating_col])
     size = movies_data.shape[0] - 1
 
     for idx, row in movies_data.iterrows():
