@@ -239,3 +239,7 @@ ipython_config.py
 
 # Add ENV values
 kinopoisk/env.sh
+
+# Metabase
+metabase/*
+
