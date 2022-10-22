@@ -245,5 +245,5 @@ kinopoisk/env.sh
 metabase/*
 
 data/kinopoisk/env.sh
-data/kinopoisk/csv/*
+data/kinopoisk/csv/ignore/*
 *.ipynb
