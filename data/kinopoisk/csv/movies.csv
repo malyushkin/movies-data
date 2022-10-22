@@ -1,0 +1,683 @@
+imdb,kp_poster_url,year,kp_id,type,genres,countries
+tt0110912,https://st.kp.yandex.net/images/film_big/342.jpg,1994,342,movie,"[{'name': 'криминал'}, {'name': 'драма'}]",[{'name': 'США'}]
+tt0335266,https://st.kp.yandex.net/images/film_big/5930.jpg,2003,5930,movie,"[{'name': 'драма'}, {'name': 'мелодрама'}]","[{'name': 'США'}, {'name': 'Япония'}]"
+tt0993840,https://st.kp.yandex.net/images/film_big/428683.jpg,2021,428683,movie,"[{'name': 'ужасы'}, {'name': 'драма'}, {'name': 'боевик'}]",[{'name': 'США'}]
+tt3707104,https://st.kp.yandex.net/images/film_big/857533.jpg,2016,857533,movie,"[{'name': 'триллер'}, {'name': 'драма'}]","[{'name': 'США'}, {'name': 'Испания'}, {'name': 'Италия'}]"
+tt16759126,https://st.kp.yandex.net/images/film_big/1301880.jpg,2021,1301880,movie,[{'name': 'комедия'}],[{'name': 'Россия'}]
+tt4513678,https://st.kp.yandex.net/images/film_big/897725.jpg,2021,897725,movie,"[{'name': 'фантастика'}, {'name': 'комедия'}, {'name': 'боевик'}, {'name': 'фэнтези'}]","[{'name': 'США'}, {'name': 'Канада'}]"
+tt3402236,https://st.kp.yandex.net/images/film_big/817969.jpg,2017,817969,movie,"[{'name': 'детектив'}, {'name': 'криминал'}, {'name': 'драма'}]","[{'name': 'США'}, {'name': 'Мальта'}, {'name': 'Великобритания'}]"
+tt7657566,https://st.kp.yandex.net/images/film_big/1103803.jpg,2020,1103803,movie,"[{'name': 'детектив'}, {'name': 'криминал'}, {'name': 'драма'}]","[{'name': 'США'}, {'name': 'Великобритания'}]"
+tt6865690,https://st.kp.yandex.net/images/film_big/1047881.jpg,2018,1047881,movie,"[{'name': 'драма'}, {'name': 'комедия'}]",[{'name': 'США'}]
+,https://st.kp.yandex.net/images/film_big/1108682.jpg,2018,1108682,tv-series,"[{'name': 'драма'}, {'name': 'фантастика'}, {'name': 'триллер'}]",[{'name': 'Россия'}]
+tt8435892,https://st.kp.yandex.net/images/film_big/1150547.jpg,2019,1150547,movie,"[{'name': 'драма'}, {'name': 'мелодрама'}]",[{'name': 'Германия'}]
+tt6320628,https://st.kp.yandex.net/images/film_big/1008445.jpg,2019,1008445,movie,"[{'name': 'фантастика'}, {'name': 'боевик'}, {'name': 'приключения'}]",[{'name': 'США'}]
+tt10872600,https://st.kp.yandex.net/images/film_big/1309570.jpg,2021,1309570,movie,"[{'name': 'фантастика'}, {'name': 'боевик'}, {'name': 'приключения'}, {'name': 'фэнтези'}]",[{'name': 'США'}]
+tt2361509,https://st.kp.yandex.net/images/film_big/677893.jpg,2015,677893,movie,"[{'name': 'мелодрама'}, {'name': 'комедия'}]",[{'name': 'США'}]
+tt1124035,https://st.kp.yandex.net/images/film_big/462482.jpg,2011,462482,movie,"[{'name': 'триллер'}, {'name': 'драма'}]",[{'name': 'США'}]
+tt0427392,https://st.kp.yandex.net/images/film_big/161094.jpg,2007,161094,movie,"[{'name': 'фантастика'}, {'name': 'триллер'}]","[{'name': 'США'}, {'name': 'Австралия'}]"
+tt4427076,https://st.kp.yandex.net/images/film_big/781432.jpg,2015,781432,movie,[{'name': 'мелодрама'}],[{'name': 'Россия'}]
+,https://st.kp.yandex.net/images/film_big/1355139.jpg,2021,1355139,movie,"[{'name': 'комедия'}, {'name': 'драма'}, {'name': 'приключения'}]",[{'name': 'США'}]
+tt0470752,https://st.kp.yandex.net/images/film_big/197532.jpg,2014,197532,movie,"[{'name': 'фантастика'}, {'name': 'триллер'}, {'name': 'драма'}]",[{'name': 'Великобритания'}]
+,https://st.kp.yandex.net/images/film_big/1326397.jpg,2020,1326397,movie,"[{'name': 'комедия'}, {'name': 'мелодрама'}]",[{'name': 'Россия'}]
+tt3567288,https://st.kp.yandex.net/images/film_big/838043.jpg,2015,838043,movie,[{'name': 'ужасы'}],[{'name': 'США'}]
+tt4501244,https://st.kp.yandex.net/images/film_big/930000.jpg,2016,930000,movie,[{'name': 'комедия'}],"[{'name': 'США'}, {'name': 'Камбоджа'}]"
+tt0198781,https://st.kp.yandex.net/images/film_big/458.jpg,2001,458,cartoon,"[{'name': 'мультфильм'}, {'name': 'фэнтези'}, {'name': 'комедия'}, {'name': 'приключения'}, {'name': 'семейный'}]",[{'name': 'США'}]
+tt14817272,https://st.kp.yandex.net/images/film_big/4542882.jpg,2022,4542882,movie,"[{'name': 'триллер'}, {'name': 'драма'}, {'name': 'криминал'}, {'name': 'детектив'}]",[{'name': 'США'}]
+tt6654210,https://st.kp.yandex.net/images/film_big/1238476.jpg,2021,1238476,movie,"[{'name': 'фантастика'}, {'name': 'боевик'}]",[{'name': 'США'}]
+tt1951265,https://st.kp.yandex.net/images/film_big/661911.jpg,2014,661911,movie,"[{'name': 'фантастика'}, {'name': 'боевик'}, {'name': 'триллер'}, {'name': 'приключения'}]","[{'name': 'США'}, {'name': 'Канада'}, {'name': 'Франция'}]"
+tt10341034,https://st.kp.yandex.net/images/film_big/1368311.jpg,2020,1368311,movie,"[{'name': 'детектив'}, {'name': 'триллер'}]",[{'name': 'Франция'}]
+tt0313737,https://st.kp.yandex.net/images/film_big/317.jpg,2002,317,movie,"[{'name': 'мелодрама'}, {'name': 'комедия'}]","[{'name': 'США'}, {'name': 'Австралия'}]"
+tt0441773,https://st.kp.yandex.net/images/film_big/103734.jpg,2008,103734,cartoon,"[{'name': 'мультфильм'}, {'name': 'фэнтези'}, {'name': 'боевик'}, {'name': 'драма'}, {'name': 'комедия'}, {'name': 'приключения'}, {'name': 'семейный'}]","[{'name': 'США'}, {'name': 'Китай'}]"
+tt8718158,https://st.kp.yandex.net/images/film_big/1282222.jpg,2021,1282222,movie,"[{'name': 'мелодрама'}, {'name': 'комедия'}]",[{'name': 'США'}]
+tt1041829,https://st.kp.yandex.net/images/film_big/321842.jpg,2009,321842,movie,"[{'name': 'мелодрама'}, {'name': 'комедия'}, {'name': 'драма'}]",[{'name': 'США'}]
+tt11616036,https://st.kp.yandex.net/images/film_big/1252962.jpg,2020,1252962,movie,"[{'name': 'мелодрама'}, {'name': 'комедия'}]",[{'name': 'Россия'}]
+tt0317740,https://st.kp.yandex.net/images/film_big/318.jpg,2003,318,movie,"[{'name': 'боевик'}, {'name': 'триллер'}, {'name': 'криминал'}]","[{'name': 'США'}, {'name': 'Франция'}, {'name': 'Италия'}, {'name': 'Великобритания'}, {'name': 'Германия'}]"
+tt3631112,https://st.kp.yandex.net/images/film_big/928391.jpg,2016,928391,movie,"[{'name': 'триллер'}, {'name': 'детектив'}, {'name': 'драма'}, {'name': 'криминал'}]",[{'name': 'США'}]
+tt7888964,https://st.kp.yandex.net/images/film_big/1309596.jpg,2021,1309596,movie,"[{'name': 'боевик'}, {'name': 'триллер'}, {'name': 'криминал'}]","[{'name': 'США'}, {'name': 'Япония'}]"
+tt0427229,https://st.kp.yandex.net/images/film_big/86646.jpg,2006,86646,movie,"[{'name': 'мелодрама'}, {'name': 'комедия'}]",[{'name': 'США'}]
+tt6264654,https://st.kp.yandex.net/images/film_big/1199100.jpg,2021,1199100,movie,"[{'name': 'фантастика'}, {'name': 'боевик'}, {'name': 'комедия'}, {'name': 'мелодрама'}]",[{'name': 'США'}]
+tt0448115,https://st.kp.yandex.net/images/film_big/840372.jpg,2019,840372,movie,"[{'name': 'фэнтези'}, {'name': 'боевик'}, {'name': 'комедия'}]","[{'name': 'США'}, {'name': 'Канада'}]"
+tt6334354,https://st.kp.yandex.net/images/film_big/1008477.jpg,2021,1008477,movie,"[{'name': 'боевик'}, {'name': 'фантастика'}, {'name': 'комедия'}, {'name': 'фэнтези'}]",[{'name': 'США'}]
+tt7126948,https://st.kp.yandex.net/images/film_big/1046969.jpg,2020,1046969,movie,"[{'name': 'фэнтези'}, {'name': 'боевик'}, {'name': 'приключения'}, {'name': 'фантастика'}]","[{'name': 'США'}, {'name': 'Великобритания'}, {'name': 'Испания'}]"
+tt7097896,https://st.kp.yandex.net/images/film_big/1227967.jpg,2021,1227967,movie,"[{'name': 'фантастика'}, {'name': 'боевик'}, {'name': 'ужасы'}]","[{'name': 'США'}, {'name': 'Китай'}]"
+tt0373889,https://st.kp.yandex.net/images/film_big/48356.jpg,2007,48356,movie,"[{'name': 'фэнтези'}, {'name': 'приключения'}, {'name': 'семейный'}]","[{'name': 'Великобритания'}, {'name': 'США'}]"
+tt0304141,https://st.kp.yandex.net/images/film_big/322.jpg,2004,322,movie,"[{'name': 'фэнтези'}, {'name': 'приключения'}, {'name': 'семейный'}]","[{'name': 'Великобритания'}, {'name': 'США'}]"
+tt0330373,https://st.kp.yandex.net/images/film_big/8408.jpg,2005,8408,movie,"[{'name': 'фэнтези'}, {'name': 'приключения'}, {'name': 'семейный'}]","[{'name': 'Великобритания'}, {'name': 'США'}]"
+tt0295297,https://st.kp.yandex.net/images/film_big/688.jpg,2002,688,movie,"[{'name': 'фэнтези'}, {'name': 'приключения'}, {'name': 'семейный'}]","[{'name': 'Великобритания'}, {'name': 'США'}]"
+tt11286314,https://st.kp.yandex.net/images/film_big/1338480.jpg,2021,1338480,movie,"[{'name': 'драма'}, {'name': 'фантастика'}, {'name': 'комедия'}]",[{'name': 'США'}]
+tt16116174,https://st.kp.yandex.net/images/film_big/4716622.jpg,2022,4716622,movie,"[{'name': 'документальный'}, {'name': 'семейный'}]","[{'name': 'Великобритания'}, {'name': 'США'}]"
+tt11738870,https://st.kp.yandex.net/images/film_big/1346996.jpg,2020,1346996,movie,[{'name': 'мелодрама'}],[{'name': 'США'}]
+tt0314331,https://st.kp.yandex.net/images/film_big/6144.jpg,2003,6144,movie,"[{'name': 'мелодрама'}, {'name': 'комедия'}, {'name': 'драма'}]","[{'name': 'Великобритания'}, {'name': 'Франция'}, {'name': 'США'}]"
+tt1291570,https://st.kp.yandex.net/images/film_big/463070.jpg,2014,463070,movie,"[{'name': 'триллер'}, {'name': 'криминал'}, {'name': 'детектив'}, {'name': 'фантастика'}]",[{'name': 'США'}]
+tt13070602,https://st.kp.yandex.net/images/film_big/1423831.jpg,2021,1423831,movie,"[{'name': 'драма'}, {'name': 'мелодрама'}, {'name': 'комедия'}, {'name': 'приключения'}, {'name': 'семейный'}]","[{'name': 'Великобритания'}, {'name': 'США'}]"
+tt5989218,https://st.kp.yandex.net/images/film_big/1007921.jpg,2018,1007921,movie,"[{'name': 'драма'}, {'name': 'мелодрама'}]","[{'name': 'США'}, {'name': 'Испания'}]"
+tt7991608,https://st.kp.yandex.net/images/film_big/1115099.jpg,2021,1115099,movie,"[{'name': 'боевик'}, {'name': 'комедия'}, {'name': 'криминал'}]",[{'name': 'США'}]
+tt6433456,https://st.kp.yandex.net/images/film_big/1036188.jpg,2018,1036188,movie,"[{'name': 'драма'}, {'name': 'биография'}]","[{'name': 'Швеция'}, {'name': 'Дания'}]"
+tt3228774,https://st.kp.yandex.net/images/film_big/804662.jpg,2021,804662,movie,"[{'name': 'комедия'}, {'name': 'криминал'}, {'name': 'драма'}]","[{'name': 'США'}, {'name': 'Великобритания'}]"
+tt14091030,https://st.kp.yandex.net/images/film_big/965936.jpg,2021,965936,movie,"[{'name': 'боевик'}, {'name': 'фантастика'}]",[{'name': 'США'}]
+tt13024674,https://st.kp.yandex.net/images/film_big/1403664.jpg,2021,1403664,movie,"[{'name': 'боевик'}, {'name': 'триллер'}, {'name': 'криминал'}]","[{'name': 'Германия'}, {'name': 'США'}]"
+tt10933000,https://st.kp.yandex.net/images/film_big/1179555.jpg,2020,1179555,movie,"[{'name': 'триллер'}, {'name': 'драма'}, {'name': 'детектив'}]","[{'name': 'США'}, {'name': 'Канада'}]"
+tt4080728,https://st.kp.yandex.net/images/film_big/848894.jpg,2015,848894,movie,"[{'name': 'драма'}, {'name': 'мелодрама'}, {'name': 'комедия'}]",[{'name': 'Швеция'}]
+tt10919420,https://st.kp.yandex.net/images/film_big/1301710.jpg,2021,1301710,tv-series,"[{'name': 'триллер'}, {'name': 'драма'}]",[{'name': 'Корея Южная'}]
+tt0189998,https://st.kp.yandex.net/images/film_big/825.jpg,2000,825,movie,"[{'name': 'ужасы'}, {'name': 'драма'}]","[{'name': 'Великобритания'}, {'name': 'Люксембург'}, {'name': 'США'}]"
+tt12028944,https://st.kp.yandex.net/images/film_big/1254059.jpg,2020,1254059,movie,"[{'name': 'драма'}, {'name': 'биография'}]",[{'name': 'Россия'}]
+tt1392170,https://st.kp.yandex.net/images/film_big/468581.jpg,2012,468581,movie,"[{'name': 'фантастика'}, {'name': 'боевик'}, {'name': 'триллер'}, {'name': 'приключения'}]",[{'name': 'США'}]
+tt1160419,https://st.kp.yandex.net/images/film_big/409424.jpg,2021,409424,movie,"[{'name': 'фантастика'}, {'name': 'боевик'}, {'name': 'драма'}, {'name': 'приключения'}]","[{'name': 'США'}, {'name': 'Канада'}, {'name': 'Венгрия'}]"
+tt9738784,https://st.kp.yandex.net/images/film_big/1209777.jpg,2020,1209777,movie,"[{'name': 'драма'}, {'name': 'военный'}, {'name': 'история'}]","[{'name': 'Россия'}, {'name': 'Германия'}, {'name': 'Беларусь'}]"
+tt1219289,https://st.kp.yandex.net/images/film_big/462606.jpg,2011,462606,movie,"[{'name': 'триллер'}, {'name': 'драма'}, {'name': 'фантастика'}]",[{'name': 'США'}]
+tt12200256,https://st.kp.yandex.net/images/film_big/1183599.jpg,2020,1183599,movie,"[{'name': 'драма'}, {'name': 'боевик'}]",[{'name': 'Россия'}]
+tt0358273,https://st.kp.yandex.net/images/film_big/21540.jpg,2005,21540,movie,"[{'name': 'драма'}, {'name': 'мелодрама'}, {'name': 'биография'}, {'name': 'музыка'}]","[{'name': 'США'}, {'name': 'Германия'}]"
+tt1596350,https://st.kp.yandex.net/images/film_big/497233.jpg,2012,497233,movie,"[{'name': 'боевик'}, {'name': 'мелодрама'}, {'name': 'комедия'}]",[{'name': 'США'}]
+tt0241527,https://st.kp.yandex.net/images/film_big/689.jpg,2001,689,movie,"[{'name': 'фэнтези'}, {'name': 'приключения'}, {'name': 'семейный'}]","[{'name': 'Великобритания'}, {'name': 'США'}]"
+tt7504726,https://st.kp.yandex.net/images/film_big/1060511.jpg,2020,1060511,movie,"[{'name': 'драма'}, {'name': 'приключения'}, {'name': 'семейный'}]","[{'name': 'США'}, {'name': 'Канада'}]"
+tt5884052,https://st.kp.yandex.net/images/film_big/994864.jpg,2019,994864,movie,"[{'name': 'фантастика'}, {'name': 'фэнтези'}, {'name': 'детектив'}, {'name': 'приключения'}, {'name': 'семейный'}]","[{'name': 'США'}, {'name': 'Япония'}]"
+tt7601480,https://st.kp.yandex.net/images/film_big/1109271.jpg,2021,1109271,movie,"[{'name': 'боевик'}, {'name': 'криминал'}, {'name': 'детектив'}, {'name': 'комедия'}]",[{'name': 'Россия'}]
+tt1478839,https://st.kp.yandex.net/images/film_big/470191.jpg,2019,470191,movie,"[{'name': 'драма'}, {'name': 'мелодрама'}, {'name': 'комедия'}, {'name': 'спорт'}, {'name': 'семейный'}]",[{'name': 'США'}]
+tt8333746,https://st.kp.yandex.net/images/film_big/1146252.jpg,2019,1146252,movie,"[{'name': 'фэнтези'}, {'name': 'драма'}, {'name': 'приключения'}]","[{'name': 'Италия'}, {'name': 'Франция'}, {'name': 'Великобритания'}]"
+tt7146812,https://st.kp.yandex.net/images/film_big/1080513.jpg,2019,1080513,cartoon,"[{'name': 'мультфильм'}, {'name': 'фэнтези'}, {'name': 'комедия'}, {'name': 'приключения'}, {'name': 'семейный'}]",[{'name': 'США'}]
+tt9620292,https://st.kp.yandex.net/images/film_big/1236567.jpg,2020,1236567,movie,"[{'name': 'триллер'}, {'name': 'драма'}, {'name': 'криминал'}]","[{'name': 'Великобритания'}, {'name': 'США'}]"
+tt11083552,https://st.kp.yandex.net/images/film_big/1318972.jpg,2021,1318972,movie,"[{'name': 'боевик'}, {'name': 'триллер'}]","[{'name': 'Великобритания'}, {'name': 'США'}]"
+,https://st.kp.yandex.net/images/film_big/463418.jpg,2012,463418,movie,"[{'name': 'драма'}, {'name': 'мелодрама'}, {'name': 'комедия'}]",[{'name': 'США'}]
+,https://st.kp.yandex.net/images/film_big/464573.jpg,2011,464573,movie,"[{'name': 'фантастика'}, {'name': 'комедия'}, {'name': 'мелодрама'}, {'name': 'приключения'}, {'name': 'драма'}]",[{'name': 'США'}]
+tt2719848,https://st.kp.yandex.net/images/film_big/739642.jpg,2015,739642,movie,"[{'name': 'боевик'}, {'name': 'триллер'}, {'name': 'драма'}, {'name': 'приключения'}, {'name': 'биография'}]","[{'name': 'Великобритания'}, {'name': 'США'}, {'name': 'Исландия'}]"
+tt4276820,https://st.kp.yandex.net/images/film_big/893245.jpg,2016,893245,movie,"[{'name': 'биография'}, {'name': 'драма'}]","[{'name': 'США'}, {'name': 'Греция'}]"
+tt8265928,https://st.kp.yandex.net/images/film_big/1117379.jpg,2019,1117379,movie,"[{'name': 'комедия'}, {'name': 'мелодрама'}, {'name': 'фэнтези'}]","[{'name': 'Франция'}, {'name': 'Бельгия'}, {'name': 'Корея Южная'}]"
+tt6270534,https://st.kp.yandex.net/images/film_big/1021046.jpg,2019,1021046,movie,[{'name': 'детектив'}],"[{'name': 'Франция'}, {'name': 'Бельгия'}]"
+tt6723592,https://st.kp.yandex.net/images/film_big/1236063.jpg,2020,1236063,movie,"[{'name': 'фантастика'}, {'name': 'боевик'}, {'name': 'триллер'}, {'name': 'приключения'}]","[{'name': 'Великобритания'}, {'name': 'США'}]"
+tt0824747,https://st.kp.yandex.net/images/film_big/279880.jpg,2008,279880,movie,"[{'name': 'триллер'}, {'name': 'драма'}, {'name': 'криминал'}, {'name': 'детектив'}, {'name': 'биография'}, {'name': 'история'}]",[{'name': 'США'}]
+tt0359950,https://st.kp.yandex.net/images/film_big/6034.jpg,2013,6034,movie,"[{'name': 'комедия'}, {'name': 'приключения'}, {'name': 'фэнтези'}, {'name': 'драма'}, {'name': 'мелодрама'}]","[{'name': 'США'}, {'name': 'Великобритания'}]"
+tt11547520,https://st.kp.yandex.net/images/film_big/1188248.jpg,2020,1188248,movie,"[{'name': 'биография'}, {'name': 'история'}]",[{'name': 'Россия'}]
+tt0467200,https://st.kp.yandex.net/images/film_big/195435.jpg,2008,195435,movie,"[{'name': 'драма'}, {'name': 'мелодрама'}, {'name': 'биография'}, {'name': 'история'}]","[{'name': 'Великобритания'}, {'name': 'США'}]"
+tt13666772,https://st.kp.yandex.net/images/film_big/1189859.jpg,2020,1189859,movie,"[{'name': 'драма'}, {'name': 'комедия'}]",[{'name': 'Россия'}]
+tt0892318,https://st.kp.yandex.net/images/film_big/461799.jpg,2010,461799,movie,"[{'name': 'драма'}, {'name': 'мелодрама'}, {'name': 'комедия'}, {'name': 'приключения'}]",[{'name': 'США'}]
+tt3488710,https://st.kp.yandex.net/images/film_big/829368.jpg,2015,829368,movie,"[{'name': 'биография'}, {'name': 'драма'}, {'name': 'триллер'}]",[{'name': 'США'}]
+tt3513548,https://st.kp.yandex.net/images/film_big/826373.jpg,2019,826373,movie,"[{'name': 'драма'}, {'name': 'биография'}]",[{'name': 'США'}]
+tt0408790,https://st.kp.yandex.net/images/film_big/81873.jpg,2005,81873,movie,"[{'name': 'триллер'}, {'name': 'драма'}, {'name': 'детектив'}]",[{'name': 'США'}]
+tt4729430,https://st.kp.yandex.net/images/film_big/957887.jpg,2019,957887,cartoon,"[{'name': 'мультфильм'}, {'name': 'семейный'}, {'name': 'комедия'}, {'name': 'приключения'}]","[{'name': 'Испания'}, {'name': 'Великобритания'}, {'name': 'США'}]"
+tt0119116,https://st.kp.yandex.net/images/film_big/2656.jpg,1997,2656,movie,"[{'name': 'фантастика'}, {'name': 'боевик'}, {'name': 'комедия'}, {'name': 'мелодрама'}]","[{'name': 'Франция'}, {'name': 'Великобритания'}]"
+tt13144490,https://st.kp.yandex.net/images/film_big/1395366.jpg,2020,1395366,tv-series,"[{'name': 'триллер'}, {'name': 'боевик'}, {'name': 'драма'}]",[{'name': 'Россия'}]
+tt11455654,https://st.kp.yandex.net/images/film_big/1108690.jpg,2020,1108690,tv-series,"[{'name': 'детектив'}, {'name': 'триллер'}, {'name': 'драма'}, {'name': 'военный'}, {'name': 'история'}]",[{'name': 'Россия'}]
+tt11439556,https://st.kp.yandex.net/images/film_big/1199625.jpg,2020,1199625,movie,[{'name': 'комедия'}],[{'name': 'Россия'}]
+tt4912910,https://st.kp.yandex.net/images/film_big/926540.jpg,2018,926540,movie,"[{'name': 'боевик'}, {'name': 'триллер'}, {'name': 'приключения'}]","[{'name': 'США'}, {'name': 'Китай'}, {'name': 'Франция'}, {'name': 'Норвегия'}, {'name': 'Великобритания'}]"
+tt1051906,https://st.kp.yandex.net/images/film_big/420454.jpg,2020,420454,movie,"[{'name': 'фантастика'}, {'name': 'триллер'}, {'name': 'детектив'}]","[{'name': 'США'}, {'name': 'Канада'}, {'name': 'Австралия'}]"
+tt2381249,https://st.kp.yandex.net/images/film_big/678549.jpg,2015,678549,movie,"[{'name': 'боевик'}, {'name': 'триллер'}, {'name': 'приключения'}]","[{'name': 'США'}, {'name': 'Китай'}]"
+tt3487382,https://st.kp.yandex.net/images/film_big/823594.jpg,2014,823594,tv-series,"[{'name': 'фантастика'}, {'name': 'фэнтези'}, {'name': 'драма'}, {'name': 'криминал'}, {'name': 'детектив'}]",[{'name': 'США'}]
+tt2704998,https://st.kp.yandex.net/images/film_big/737859.jpg,2018,737859,movie,"[{'name': 'боевик'}, {'name': 'триллер'}, {'name': 'комедия'}, {'name': 'криминал'}, {'name': 'приключения'}]",[{'name': 'США'}]
+tt9814116,https://st.kp.yandex.net/images/film_big/1263485.jpg,2020,1263485,tv-series,"[{'name': 'фантастика'}, {'name': 'триллер'}, {'name': 'драма'}]",[{'name': 'США'}]
+tt1229238,https://st.kp.yandex.net/images/film_big/472362.jpg,2011,472362,movie,"[{'name': 'боевик'}, {'name': 'триллер'}, {'name': 'приключения'}]",[{'name': 'США'}]
+tt0317919,https://st.kp.yandex.net/images/film_big/9552.jpg,2006,9552,movie,"[{'name': 'боевик'}, {'name': 'триллер'}, {'name': 'приключения'}]","[{'name': 'США'}, {'name': 'Германия'}, {'name': 'Китай'}, {'name': 'Италия'}]"
+tt12058242,https://st.kp.yandex.net/images/film_big/1167867.jpg,2020,1167867,movie,"[{'name': 'биография'}, {'name': 'спорт'}, {'name': 'драма'}]",[{'name': 'Россия'}]
+tt4005402,https://st.kp.yandex.net/images/film_big/842913.jpg,2015,842913,movie,"[{'name': 'драма'}, {'name': 'биография'}, {'name': 'история'}]","[{'name': 'Германия'}, {'name': 'Франция'}, {'name': 'Люксембург'}, {'name': 'Великобритания'}, {'name': 'США'}]"
+tt1924429,https://st.kp.yandex.net/images/film_big/586399.jpg,2013,586399,movie,"[{'name': 'триллер'}, {'name': 'драма'}, {'name': 'криминал'}, {'name': 'детектив'}]","[{'name': 'Великобритания'}, {'name': 'Франция'}]"
+tt1343727,https://st.kp.yandex.net/images/film_big/437678.jpg,2012,437678,movie,"[{'name': 'фантастика'}, {'name': 'боевик'}, {'name': 'криминал'}]","[{'name': 'Великобритания'}, {'name': 'ЮАР'}, {'name': 'Индия'}]"
+tt8880894,https://st.kp.yandex.net/images/film_big/1183824.jpg,2019,1183824,tv-series,"[{'name': 'комедия'}, {'name': 'фантастика'}]",[{'name': 'США'}]
+tt3531824,https://st.kp.yandex.net/images/film_big/889091.jpg,2016,889091,movie,"[{'name': 'боевик'}, {'name': 'триллер'}, {'name': 'драма'}, {'name': 'криминал'}, {'name': 'приключения'}]",[{'name': 'США'}]
+tt0120755,https://st.kp.yandex.net/images/film_big/3447.jpg,2000,3447,movie,"[{'name': 'боевик'}, {'name': 'триллер'}, {'name': 'приключения'}]","[{'name': 'США'}, {'name': 'Германия'}]"
+tt0117060,https://st.kp.yandex.net/images/film_big/3961.jpg,1996,3961,movie,"[{'name': 'боевик'}, {'name': 'триллер'}, {'name': 'приключения'}]",[{'name': 'США'}]
+tt12516676,https://st.kp.yandex.net/images/film_big/1312007.jpg,2020,1312007,tv-series,"[{'name': 'драма'}, {'name': 'комедия'}, {'name': 'криминал'}]",[{'name': 'Россия'}]
+tt1392214,https://st.kp.yandex.net/images/film_big/455194.jpg,2013,455194,movie,"[{'name': 'триллер'}, {'name': 'драма'}, {'name': 'криминал'}, {'name': 'детектив'}]",[{'name': 'США'}]
+tt8129794,https://st.kp.yandex.net/images/film_big/1121377.jpg,2018,1121377,movie,"[{'name': 'драма'}, {'name': 'комедия'}]",[{'name': 'Германия'}]
+,https://st.kp.yandex.net/images/film_big/1291338.jpg,2018,1291338,mini-series,"[{'name': 'драма'}, {'name': 'комедия'}]",[{'name': 'Россия'}]
+tt1298644,https://st.kp.yandex.net/images/film_big/428711.jpg,2019,428711,movie,"[{'name': 'комедия'}, {'name': 'криминал'}]",[{'name': 'США'}]
+tt6499752,https://st.kp.yandex.net/images/film_big/1009784.jpg,2018,1009784,movie,"[{'name': 'фантастика'}, {'name': 'боевик'}, {'name': 'триллер'}, {'name': 'детектив'}, {'name': 'криминал'}]","[{'name': 'Австралия'}, {'name': 'США'}]"
+tt1881109,https://st.kp.yandex.net/images/film_big/591535.jpg,2019,591535,movie,"[{'name': 'драма'}, {'name': 'комедия'}, {'name': 'детектив'}]",[{'name': 'США'}]
+tt2191701,https://st.kp.yandex.net/images/film_big/663191.jpg,2013,663191,movie,[{'name': 'комедия'}],[{'name': 'США'}]
+tt1375670,https://st.kp.yandex.net/images/film_big/450345.jpg,2010,450345,movie,[{'name': 'комедия'}],[{'name': 'США'}]
+tt3799694,https://st.kp.yandex.net/images/film_big/841152.jpg,2016,841152,movie,"[{'name': 'криминал'}, {'name': 'комедия'}, {'name': 'боевик'}]","[{'name': 'США'}, {'name': 'Великобритания'}]"
+tt2096673,https://st.kp.yandex.net/images/film_big/645118.jpg,2015,645118,cartoon,"[{'name': 'мультфильм'}, {'name': 'семейный'}, {'name': 'комедия'}]",[{'name': 'США'}]
+tt9059760,https://st.kp.yandex.net/images/film_big/1277987.jpg,2020,1277987,mini-series,"[{'name': 'драма'}, {'name': 'мелодрама'}]",[{'name': 'Ирландия'}]
+tt5886046,https://st.kp.yandex.net/images/film_big/1065805.jpg,2019,1065805,movie,[{'name': 'триллер'}],"[{'name': 'США'}, {'name': 'ЮАР'}]"
+tt11394200,https://st.kp.yandex.net/images/film_big/1338525.jpg,2020,1338525,movie,"[{'name': 'документальный'}, {'name': 'драма'}]","[{'name': 'США'}, {'name': 'Великобритания'}]"
+tt1564367,https://st.kp.yandex.net/images/film_big/490323.jpg,2011,490323,movie,"[{'name': 'мелодрама'}, {'name': 'комедия'}]",[{'name': 'США'}]
+tt0102685,https://st.kp.yandex.net/images/film_big/1990.jpg,1991,1990,movie,"[{'name': 'боевик'}, {'name': 'триллер'}, {'name': 'криминал'}]","[{'name': 'США'}, {'name': 'Япония'}]"
+tt0780504,https://st.kp.yandex.net/images/film_big/276598.jpg,2011,276598,movie,"[{'name': 'криминал'}, {'name': 'драма'}, {'name': 'триллер'}]",[{'name': 'США'}]
+tt8655574,https://st.kp.yandex.net/images/film_big/1236319.jpg,2019,1236319,movie,"[{'name': 'драма'}, {'name': 'комедия'}, {'name': 'семейный'}]","[{'name': 'Франция'}, {'name': 'Бельгия'}]"
+tt5093026,https://st.kp.yandex.net/images/film_big/939411.jpg,2017,939411,movie,"[{'name': 'драма'}, {'name': 'криминал'}, {'name': 'приключения'}, {'name': 'биография'}]","[{'name': 'США'}, {'name': 'Чехия'}, {'name': 'Испания'}]"
+tt1100089,https://st.kp.yandex.net/images/film_big/638053.jpg,2014,638053,movie,"[{'name': 'драма'}, {'name': 'спорт'}, {'name': 'история'}]",[{'name': 'США'}]
+tt6105098,https://st.kp.yandex.net/images/film_big/1005878.jpg,2019,1005878,cartoon,"[{'name': 'мультфильм'}, {'name': 'мюзикл'}, {'name': 'драма'}, {'name': 'приключения'}, {'name': 'семейный'}]","[{'name': 'США'}, {'name': 'Великобритания'}]"
+tt1536537,https://st.kp.yandex.net/images/film_big/484628.jpg,2017,484628,movie,"[{'name': 'фантастика'}, {'name': 'фэнтези'}, {'name': 'боевик'}, {'name': 'триллер'}, {'name': 'криминал'}, {'name': 'детектив'}]","[{'name': 'Великобритания'}, {'name': 'Франция'}, {'name': 'США'}, {'name': 'Бельгия'}]"
+tt8688634,https://st.kp.yandex.net/images/film_big/1174226.jpg,2019,1174226,movie,"[{'name': 'боевик'}, {'name': 'криминал'}, {'name': 'триллер'}]","[{'name': 'Китай'}, {'name': 'США'}]"
+tt4857264,https://st.kp.yandex.net/images/film_big/959365.jpg,2016,959365,movie,"[{'name': 'триллер'}, {'name': 'драма'}, {'name': 'криминал'}, {'name': 'детектив'}]",[{'name': 'Испания'}]
+tt1596363,https://st.kp.yandex.net/images/film_big/501333.jpg,2015,501333,movie,"[{'name': 'драма'}, {'name': 'комедия'}, {'name': 'биография'}, {'name': 'история'}]",[{'name': 'США'}]
+tt6742252,https://st.kp.yandex.net/images/film_big/1070927.jpg,2017,1070927,movie,"[{'name': 'триллер'}, {'name': 'драма'}, {'name': 'криминал'}]",[{'name': 'Дания'}]
+tt5716464,https://st.kp.yandex.net/images/film_big/980347.jpg,2017,980347,movie,"[{'name': 'драма'}, {'name': 'мелодрама'}, {'name': 'биография'}]",[{'name': 'Великобритания'}]
+tt8946378,https://st.kp.yandex.net/images/film_big/1188529.jpg,2019,1188529,movie,"[{'name': 'детектив'}, {'name': 'комедия'}, {'name': 'драма'}, {'name': 'криминал'}]",[{'name': 'США'}]
+tt14333000,https://st.kp.yandex.net/images/film_big/1356380.jpg,2020,1356380,movie,"[{'name': 'документальный'}, {'name': 'комедия'}]",[{'name': 'Россия'}]
+tt1560220,https://st.kp.yandex.net/images/film_big/489414.jpg,2019,489414,movie,"[{'name': 'ужасы'}, {'name': 'комедия'}, {'name': 'боевик'}]",[{'name': 'США'}]
+tt8367814,https://st.kp.yandex.net/images/film_big/1143242.jpg,2019,1143242,movie,"[{'name': 'криминал'}, {'name': 'комедия'}, {'name': 'боевик'}]","[{'name': 'Великобритания'}, {'name': 'США'}]"
+tt8228288,https://st.kp.yandex.net/images/film_big/1134778.jpg,2019,1134778,movie,"[{'name': 'фантастика'}, {'name': 'триллер'}, {'name': 'драма'}]",[{'name': 'Испания'}]
+tt7131622,https://st.kp.yandex.net/images/film_big/1047883.jpg,2019,1047883,movie,"[{'name': 'драма'}, {'name': 'комедия'}]","[{'name': 'США'}, {'name': 'Великобритания'}, {'name': 'Китай'}]"
+tt6324614,https://st.kp.yandex.net/images/film_big/905031.jpg,2018,905031,movie,"[{'name': 'военный'}, {'name': 'драма'}, {'name': 'история'}]",[{'name': 'Россия'}]
+tt4951982,https://st.kp.yandex.net/images/film_big/929027.jpg,2018,929027,movie,"[{'name': 'триллер'}, {'name': 'драма'}, {'name': 'история'}]","[{'name': 'Франция'}, {'name': 'Бельгия'}, {'name': 'Люксембург'}, {'name': 'Румыния'}, {'name': 'Канада'}, {'name': 'США'}]"
+tt8579674,https://st.kp.yandex.net/images/film_big/1171976.jpg,2019,1171976,movie,"[{'name': 'военный'}, {'name': 'боевик'}, {'name': 'драма'}, {'name': 'история'}]","[{'name': 'США'}, {'name': 'Великобритания'}, {'name': 'Индия'}, {'name': 'Испания'}, {'name': 'Канада'}, {'name': 'Китай'}]"
+tt7335184,https://st.kp.yandex.net/images/film_big/1115630.jpg,2018,1115630,tv-series,"[{'name': 'триллер'}, {'name': 'драма'}, {'name': 'мелодрама'}, {'name': 'криминал'}]",[{'name': 'США'}]
+tt7139936,https://st.kp.yandex.net/images/film_big/1047626.jpg,2019,1047626,movie,"[{'name': 'мелодрама'}, {'name': 'комедия'}]",[{'name': 'США'}]
+,https://st.kp.yandex.net/images/film_big/1046033.jpg,2019,1046033,movie,"[{'name': 'драма'}, {'name': 'триллер'}]",[{'name': 'Россия'}]
+tt1950235,https://st.kp.yandex.net/images/film_big/607031.jpg,2019,607031,movie,"[{'name': 'мелодрама'}, {'name': 'комедия'}]",[{'name': 'США'}]
+tt7909970,https://st.kp.yandex.net/images/film_big/1169469.jpg,2019,1169469,mini-series,"[{'name': 'детектив'}, {'name': 'криминал'}, {'name': 'драма'}]",[{'name': 'США'}]
+tt7349950,https://st.kp.yandex.net/images/film_big/686898.jpg,2019,686898,movie,"[{'name': 'ужасы'}, {'name': 'фэнтези'}, {'name': 'драма'}]","[{'name': 'США'}, {'name': 'Канада'}]"
+tt7349662,https://st.kp.yandex.net/images/film_big/1093170.jpg,2018,1093170,movie,"[{'name': 'драма'}, {'name': 'комедия'}, {'name': 'криминал'}, {'name': 'биография'}]",[{'name': 'США'}]
+tt9450542,https://st.kp.yandex.net/images/film_big/1162846.jpg,2019,1162846,movie,[{'name': 'комедия'}],[{'name': 'Россия'}]
+tt3606756,https://st.kp.yandex.net/images/film_big/839650.jpg,2018,839650,cartoon,"[{'name': 'мультфильм'}, {'name': 'фантастика'}, {'name': 'боевик'}, {'name': 'комедия'}, {'name': 'приключения'}, {'name': 'семейный'}]",[{'name': 'США'}]
+tt1276104,https://st.kp.yandex.net/images/film_big/463354.jpg,2012,463354,movie,"[{'name': 'фантастика'}, {'name': 'боевик'}, {'name': 'триллер'}, {'name': 'драма'}]",[{'name': 'США'}]
+tt2692904,https://st.kp.yandex.net/images/film_big/736206.jpg,2013,736206,movie,[{'name': 'драма'}],"[{'name': 'Великобритания'}, {'name': 'США'}]"
+tt7752126,https://st.kp.yandex.net/images/film_big/1199596.jpg,2019,1199596,movie,"[{'name': 'ужасы'}, {'name': 'фантастика'}, {'name': 'драма'}, {'name': 'детектив'}]",[{'name': 'США'}]
+tt0181689,https://st.kp.yandex.net/images/film_big/496.jpg,2002,496,movie,"[{'name': 'фантастика'}, {'name': 'боевик'}, {'name': 'триллер'}, {'name': 'криминал'}, {'name': 'детектив'}]",[{'name': 'США'}]
+tt3532216,https://st.kp.yandex.net/images/film_big/837552.jpg,2017,837552,movie,"[{'name': 'боевик'}, {'name': 'драма'}, {'name': 'комедия'}, {'name': 'криминал'}]","[{'name': 'США'}, {'name': 'Япония'}, {'name': 'Колумбия'}]"
+tt7286456,https://st.kp.yandex.net/images/film_big/1048334.jpg,2019,1048334,movie,"[{'name': 'драма'}, {'name': 'криминал'}, {'name': 'триллер'}]","[{'name': 'США'}, {'name': 'Канада'}]"
+tt6139732,https://st.kp.yandex.net/images/film_big/1007049.jpg,2019,1007049,movie,"[{'name': 'мюзикл'}, {'name': 'фэнтези'}, {'name': 'мелодрама'}, {'name': 'комедия'}, {'name': 'приключения'}, {'name': 'семейный'}]","[{'name': 'США'}, {'name': 'Великобритания'}, {'name': 'Австралия'}]"
+tt5966602,https://st.kp.yandex.net/images/film_big/993591.jpg,2018,993591,movie,"[{'name': 'криминал'}, {'name': 'драма'}, {'name': 'триллер'}]","[{'name': 'Россия'}, {'name': 'Франция'}, {'name': 'Армения'}]"
+tt3864056,https://st.kp.yandex.net/images/film_big/922029.jpg,2019,922029,movie,[{'name': 'драма'}],[{'name': 'США'}]
+tt6644200,https://st.kp.yandex.net/images/film_big/1044906.jpg,2018,1044906,movie,"[{'name': 'ужасы'}, {'name': 'фантастика'}, {'name': 'драма'}]",[{'name': 'США'}]
+tt6966692,https://st.kp.yandex.net/images/film_big/1108577.jpg,2018,1108577,movie,"[{'name': 'биография'}, {'name': 'комедия'}, {'name': 'драма'}]","[{'name': 'США'}, {'name': 'Китай'}]"
+tt0112442,https://st.kp.yandex.net/images/film_big/3908.jpg,1995,3908,movie,"[{'name': 'боевик'}, {'name': 'комедия'}, {'name': 'триллер'}, {'name': 'криминал'}]",[{'name': 'США'}]
+tt4463894,https://st.kp.yandex.net/images/film_big/908691.jpg,2019,908691,movie,"[{'name': 'боевик'}, {'name': 'комедия'}, {'name': 'криминал'}]",[{'name': 'США'}]
+tt0437086,https://st.kp.yandex.net/images/film_big/88173.jpg,2019,88173,movie,"[{'name': 'фантастика'}, {'name': 'боевик'}, {'name': 'приключения'}]","[{'name': 'США'}, {'name': 'Япония'}, {'name': 'Канада'}]"
+tt6823368,https://st.kp.yandex.net/images/film_big/1044601.jpg,2019,1044601,movie,"[{'name': 'фантастика'}, {'name': 'триллер'}, {'name': 'драма'}]","[{'name': 'США'}, {'name': 'Китай'}]"
+tt5304992,https://st.kp.yandex.net/images/film_big/976520.jpg,2018,976520,movie,"[{'name': 'мелодрама'}, {'name': 'комедия'}]",[{'name': 'США'}]
+tt8613876,https://st.kp.yandex.net/images/film_big/1163897.jpg,2019,1163897,movie,"[{'name': 'триллер'}, {'name': 'криминал'}]",[{'name': 'Германия'}]
+tt9419834,https://st.kp.yandex.net/images/film_big/1219425.jpg,2019,1219425,movie,[{'name': 'триллер'}],[{'name': 'США'}]
+tt6751668,https://st.kp.yandex.net/images/film_big/1043758.jpg,2019,1043758,movie,"[{'name': 'драма'}, {'name': 'триллер'}, {'name': 'комедия'}]",[{'name': 'Корея Южная'}]
+tt2884206,https://st.kp.yandex.net/images/film_big/761933.jpg,2014,761933,movie,"[{'name': 'фантастика'}, {'name': 'драма'}, {'name': 'мелодрама'}, {'name': 'детектив'}]",[{'name': 'США'}]
+tt7366338,https://st.kp.yandex.net/images/film_big/1227803.jpg,2019,1227803,mini-series,"[{'name': 'драма'}, {'name': 'история'}]","[{'name': 'США'}, {'name': 'Великобритания'}]"
+tt8201170,https://st.kp.yandex.net/images/film_big/1154641.jpg,2019,1154641,movie,"[{'name': 'мелодрама'}, {'name': 'комедия'}]",[{'name': 'США'}]
+tt1618434,https://st.kp.yandex.net/images/film_big/505995.jpg,2019,505995,movie,"[{'name': 'комедия'}, {'name': 'детектив'}]",[{'name': 'США'}]
+tt4123430,https://st.kp.yandex.net/images/film_big/843479.jpg,2018,843479,movie,"[{'name': 'фэнтези'}, {'name': 'приключения'}, {'name': 'семейный'}]","[{'name': 'Великобритания'}, {'name': 'США'}]"
+tt10400024,https://st.kp.yandex.net/images/film_big/1224066.jpg,2019,1224066,tv-series,"[{'name': 'драма'}, {'name': 'комедия'}]",[{'name': 'Россия'}]
+tt0234215,https://st.kp.yandex.net/images/film_big/299.jpg,2003,299,movie,"[{'name': 'фантастика'}, {'name': 'боевик'}]",[{'name': 'США'}]
+tt0133093,https://st.kp.yandex.net/images/film_big/301.jpg,1999,301,movie,"[{'name': 'фантастика'}, {'name': 'боевик'}]","[{'name': 'США'}, {'name': 'Австралия'}]"
+tt7342838,https://st.kp.yandex.net/images/film_big/1009413.jpg,2018,1009413,movie,"[{'name': 'биография'}, {'name': 'музыка'}, {'name': 'драма'}]",[{'name': 'Россия'}]
+tt2115354,https://st.kp.yandex.net/images/film_big/842408.jpg,2015,842408,tv-series,[{'name': 'драма'}],[{'name': 'Россия'}]
+tt10147546,https://st.kp.yandex.net/images/film_big/1254103.jpg,2019,1254103,movie,"[{'name': 'документальный'}, {'name': 'музыка'}]",[{'name': 'США'}]
+tt1270797,https://st.kp.yandex.net/images/film_big/463634.jpg,2018,463634,movie,"[{'name': 'фантастика'}, {'name': 'боевик'}, {'name': 'триллер'}, {'name': 'ужасы'}]","[{'name': 'США'}, {'name': 'Китай'}]"
+tt4003440,https://st.kp.yandex.net/images/film_big/942396.jpg,2018,942396,movie,"[{'name': 'триллер'}, {'name': 'драма'}, {'name': 'криминал'}, {'name': 'ужасы'}]","[{'name': 'Дания'}, {'name': 'Франция'}, {'name': 'Швеция'}, {'name': 'Германия'}, {'name': 'Бельгия'}, {'name': 'Тунис'}]"
+tt5613484,https://st.kp.yandex.net/images/film_big/1040690.jpg,2018,1040690,movie,"[{'name': 'драма'}, {'name': 'комедия'}]",[{'name': 'США'}]
+tt9624470,https://st.kp.yandex.net/images/film_big/1142619.jpg,2018,1142619,movie,[{'name': 'комедия'}],[{'name': 'Россия'}]
+tt4630562,https://st.kp.yandex.net/images/film_big/894027.jpg,2017,894027,movie,"[{'name': 'боевик'}, {'name': 'криминал'}, {'name': 'приключения'}]","[{'name': 'США'}, {'name': 'Китай'}, {'name': 'Япония'}]"
+tt1727824,https://st.kp.yandex.net/images/film_big/568289.jpg,2018,568289,movie,"[{'name': 'биография'}, {'name': 'музыка'}, {'name': 'драма'}]","[{'name': 'Великобритания'}, {'name': 'США'}]"
+tt2053463,https://st.kp.yandex.net/images/film_big/623744.jpg,2013,623744,movie,"[{'name': 'триллер'}, {'name': 'драма'}, {'name': 'криминал'}, {'name': 'детектив'}]",[{'name': 'США'}]
+tt1213641,https://st.kp.yandex.net/images/film_big/463803.jpg,2018,463803,movie,"[{'name': 'драма'}, {'name': 'биография'}, {'name': 'история'}]","[{'name': 'США'}, {'name': 'Япония'}]"
+tt0365907,https://st.kp.yandex.net/images/film_big/596274.jpg,2014,596274,movie,"[{'name': 'детектив'}, {'name': 'триллер'}, {'name': 'криминал'}, {'name': 'драма'}]",[{'name': 'США'}]
+tt0113101,https://st.kp.yandex.net/images/film_big/4250.jpg,1995,4250,movie,[{'name': 'комедия'}],[{'name': 'США'}]
+tt9495224,https://st.kp.yandex.net/images/film_big/1224670.jpg,2018,1224670,movie,"[{'name': 'фантастика'}, {'name': 'фэнтези'}, {'name': 'триллер'}, {'name': 'драма'}, {'name': 'детектив'}]","[{'name': 'Великобритания'}, {'name': 'США'}]"
+tt6628394,https://st.kp.yandex.net/images/film_big/1047143.jpg,2018,1047143,movie,"[{'name': 'триллер'}, {'name': 'драма'}, {'name': 'криминал'}, {'name': 'детектив'}]",[{'name': 'США'}]
+tt1517451,https://st.kp.yandex.net/images/film_big/474935.jpg,2018,474935,movie,"[{'name': 'мелодрама'}, {'name': 'музыка'}, {'name': 'драма'}]",[{'name': 'США'}]
+tt6960712,https://st.kp.yandex.net/images/film_big/1074393.jpg,2017,1074393,movie,"[{'name': 'короткометражка'}, {'name': 'драма'}]","[{'name': 'Финляндия'}, {'name': 'Франция'}]"
+tt13338880,https://st.kp.yandex.net/images/film_big/1176661.jpg,2017,1176661,movie,"[{'name': 'короткометражка'}, {'name': 'драма'}]",[{'name': 'Норвегия'}]
+tt8287236,https://st.kp.yandex.net/images/film_big/1119439.jpg,2018,1119439,movie,"[{'name': 'короткометражка'}, {'name': 'драма'}]",[{'name': 'Финляндия'}]
+,https://st.kp.yandex.net/images/film_big/1147293.jpg,2017,1147293,movie,"[{'name': 'короткометражка'}, {'name': 'драма'}, {'name': 'комедия'}]",[{'name': 'Швеция'}]
+tt7896692,https://st.kp.yandex.net/images/film_big/1124657.jpg,2018,1124657,movie,"[{'name': 'документальный'}, {'name': 'короткометражка'}, {'name': 'драма'}, {'name': 'музыка'}]",[{'name': 'Швеция'}]
+tt7507644,https://st.kp.yandex.net/images/film_big/1104535.jpg,2018,1104535,movie,[{'name': 'короткометражка'}],[{'name': 'Швеция'}]
+tt3949660,https://st.kp.yandex.net/images/film_big/841518.jpg,2016,841518,movie,"[{'name': 'фантастика'}, {'name': 'боевик'}, {'name': 'комедия'}, {'name': 'криминал'}, {'name': 'приключения'}]","[{'name': 'США'}, {'name': 'Гонконг'}, {'name': 'Китай'}, {'name': 'Канада'}, {'name': 'Дания'}, {'name': 'Германия'}, {'name': 'Великобритания'}]"
+tt4034354,https://st.kp.yandex.net/images/film_big/918087.jpg,2016,918087,movie,"[{'name': 'фэнтези'}, {'name': 'драма'}, {'name': 'комедия'}, {'name': 'приключения'}]",[{'name': 'США'}]
+tt6673840,https://st.kp.yandex.net/images/film_big/885316.jpg,2017,885316,movie,"[{'name': 'приключения'}, {'name': 'триллер'}, {'name': 'биография'}, {'name': 'история'}]",[{'name': 'Россия'}]
+tt7632930,https://st.kp.yandex.net/images/film_big/981230.jpg,2018,981230,movie,"[{'name': 'драма'}, {'name': 'спорт'}]",[{'name': 'Россия'}]
+tt7394636,https://st.kp.yandex.net/images/film_big/1045777.jpg,2018,1045777,movie,[{'name': 'драма'}],[{'name': 'Россия'}]
+tt8462858,https://st.kp.yandex.net/images/film_big/1049775.jpg,2018,1049775,movie,[{'name': 'драма'}],"[{'name': 'Россия'}, {'name': 'Литва'}, {'name': 'Ирландия'}, {'name': 'Франция'}]"
+tt1931533,https://st.kp.yandex.net/images/film_big/586584.jpg,2012,586584,movie,"[{'name': 'комедия'}, {'name': 'криминал'}]","[{'name': 'Великобритания'}, {'name': 'США'}]"
+tt5657846,https://st.kp.yandex.net/images/film_big/975249.jpg,2017,975249,movie,[{'name': 'комедия'}],[{'name': 'США'}]
+tt1528854,https://st.kp.yandex.net/images/film_big/484428.jpg,2015,484428,movie,"[{'name': 'комедия'}, {'name': 'семейный'}]",[{'name': 'США'}]
+tt5027774,https://st.kp.yandex.net/images/film_big/944098.jpg,2017,944098,movie,"[{'name': 'драма'}, {'name': 'криминал'}]","[{'name': 'Великобритания'}, {'name': 'США'}]"
+tt6823698,https://st.kp.yandex.net/images/film_big/981105.jpg,2017,981105,movie,[{'name': 'комедия'}],[{'name': 'Россия'}]
+tt7668870,https://st.kp.yandex.net/images/film_big/970196.jpg,2018,970196,movie,"[{'name': 'детектив'}, {'name': 'триллер'}, {'name': 'драма'}]","[{'name': 'США'}, {'name': 'Россия'}]"
+tt7863198,https://st.kp.yandex.net/images/film_big/842037.jpg,2018,842037,movie,[{'name': 'комедия'}],[{'name': 'Россия'}]
+tt1837492,https://st.kp.yandex.net/images/film_big/582358.jpg,2017,582358,tv-series,"[{'name': 'триллер'}, {'name': 'драма'}, {'name': 'детектив'}]",[{'name': 'США'}]
+tt6270596,https://st.kp.yandex.net/images/film_big/893681.jpg,2018,893681,movie,[{'name': 'фантастика'}],[{'name': 'Россия'}]
+tt5726616,https://st.kp.yandex.net/images/film_big/979148.jpg,2017,979148,movie,"[{'name': 'драма'}, {'name': 'мелодрама'}]","[{'name': 'Италия'}, {'name': 'Франция'}, {'name': 'США'}, {'name': 'Бразилия'}]"
+tt1645170,https://st.kp.yandex.net/images/film_big/518040.jpg,2012,518040,movie,[{'name': 'комедия'}],[{'name': 'США'}]
+tt4925292,https://st.kp.yandex.net/images/film_big/958293.jpg,2017,958293,movie,"[{'name': 'драма'}, {'name': 'комедия'}]",[{'name': 'США'}]
+tt6952604,https://st.kp.yandex.net/images/film_big/992605.jpg,2017,992605,movie,"[{'name': 'мелодрама'}, {'name': 'драма'}]",[{'name': 'Россия'}]
+tt5837242,https://st.kp.yandex.net/images/film_big/909700.jpg,2017,909700,movie,"[{'name': 'драма'}, {'name': 'комедия'}, {'name': 'криминал'}]",[{'name': 'Россия'}]
+tt5463162,https://st.kp.yandex.net/images/film_big/961715.jpg,2018,961715,movie,"[{'name': 'фантастика'}, {'name': 'боевик'}, {'name': 'комедия'}, {'name': 'приключения'}]","[{'name': 'США'}, {'name': 'Канада'}]"
+tt5220122,https://st.kp.yandex.net/images/film_big/950968.jpg,2018,950968,cartoon,"[{'name': 'мультфильм'}, {'name': 'фэнтези'}, {'name': 'приключения'}, {'name': 'комедия'}, {'name': 'семейный'}]","[{'name': 'США'}, {'name': 'Корея Южная'}]"
+tt2802154,https://st.kp.yandex.net/images/film_big/705356.jpg,2014,705356,movie,"[{'name': 'драма'}, {'name': 'криминал'}]",[{'name': 'Россия'}]
+tt2406566,https://st.kp.yandex.net/images/film_big/714564.jpg,2017,714564,movie,"[{'name': 'боевик'}, {'name': 'триллер'}]","[{'name': 'США'}, {'name': 'Германия'}, {'name': 'Швеция'}, {'name': 'Венгрия'}]"
+tt1485796,https://st.kp.yandex.net/images/film_big/470173.jpg,2017,470173,movie,"[{'name': 'драма'}, {'name': 'биография'}, {'name': 'мюзикл'}, {'name': 'семейный'}]",[{'name': 'США'}]
+tt1677720,https://st.kp.yandex.net/images/film_big/538225.jpg,2018,538225,movie,"[{'name': 'фантастика'}, {'name': 'боевик'}, {'name': 'приключения'}]","[{'name': 'США'}, {'name': 'Индия'}]"
+tt3183660,https://st.kp.yandex.net/images/film_big/797840.jpg,2016,797840,movie,"[{'name': 'фэнтези'}, {'name': 'приключения'}, {'name': 'семейный'}]","[{'name': 'Великобритания'}, {'name': 'США'}]"
+tt0974015,https://st.kp.yandex.net/images/film_big/424994.jpg,2017,424994,movie,"[{'name': 'фантастика'}, {'name': 'боевик'}, {'name': 'фэнтези'}]","[{'name': 'США'}, {'name': 'Канада'}, {'name': 'Великобритания'}]"
+tt7964748,https://st.kp.yandex.net/images/film_big/1006132.jpg,2016,1006132,movie,"[{'name': 'комедия'}, {'name': 'драма'}]",[{'name': 'Россия'}]
+tt9340622,https://st.kp.yandex.net/images/film_big/1111871.jpg,2017,1111871,movie,"[{'name': 'мелодрама'}, {'name': 'триллер'}, {'name': 'драма'}, {'name': 'комедия'}]",[{'name': 'Россия'}]
+,https://st.kp.yandex.net/images/film_big/925669.jpg,2015,925669,movie,"[{'name': 'драма'}, {'name': 'комедия'}]",[{'name': 'Италия'}]
+tt5580390,https://st.kp.yandex.net/images/film_big/977743.jpg,2017,977743,movie,"[{'name': 'фантастика'}, {'name': 'драма'}]","[{'name': 'США'}, {'name': 'Мексика'}]"
+tt1396484,https://st.kp.yandex.net/images/film_big/453397.jpg,2017,453397,movie,"[{'name': 'ужасы'}, {'name': 'фэнтези'}, {'name': 'драма'}, {'name': 'детектив'}]","[{'name': 'США'}, {'name': 'Канада'}]"
+tt5844488,https://st.kp.yandex.net/images/film_big/900052.jpg,2017,900052,movie,"[{'name': 'мелодрама'}, {'name': 'драма'}, {'name': 'спорт'}]",[{'name': 'Россия'}]
+tt4034228,https://st.kp.yandex.net/images/film_big/884376.jpg,2016,884376,movie,[{'name': 'драма'}],[{'name': 'США'}]
+tt0067517,https://st.kp.yandex.net/images/film_big/42736.jpg,1971,42736,movie,"[{'name': 'драма'}, {'name': 'военный'}, {'name': 'мелодрама'}]",[{'name': 'СССР'}]
+tt5580036,https://st.kp.yandex.net/images/film_big/1008385.jpg,2017,1008385,movie,"[{'name': 'биография'}, {'name': 'спорт'}, {'name': 'комедия'}, {'name': 'драма'}]","[{'name': 'США'}, {'name': 'Великобритания'}, {'name': 'Катар'}]"
+tt1959563,https://st.kp.yandex.net/images/film_big/835877.jpg,2017,835877,movie,"[{'name': 'боевик'}, {'name': 'комедия'}]","[{'name': 'США'}, {'name': 'Гонконг'}, {'name': 'Болгария'}, {'name': 'Нидерланды'}, {'name': 'Канада'}, {'name': 'Великобритания'}, {'name': 'Франция'}]"
+tt5987402,https://st.kp.yandex.net/images/film_big/840817.jpg,2017,840817,movie,"[{'name': 'спорт'}, {'name': 'драма'}]",[{'name': 'Россия'}]
+tt4649466,https://st.kp.yandex.net/images/film_big/906654.jpg,2017,906654,movie,"[{'name': 'боевик'}, {'name': 'триллер'}, {'name': 'комедия'}, {'name': 'криминал'}, {'name': 'приключения'}]","[{'name': 'Великобритания'}, {'name': 'США'}]"
+,https://st.kp.yandex.net/images/film_big/930534.jpg,2017,930534,movie,"[{'name': 'триллер'}, {'name': 'ужасы'}]","[{'name': 'США'}, {'name': 'Япония'}]"
+tt3890160,https://st.kp.yandex.net/images/film_big/902939.jpg,2017,902939,movie,"[{'name': 'боевик'}, {'name': 'триллер'}, {'name': 'драма'}, {'name': 'криминал'}, {'name': 'музыка'}]","[{'name': 'Великобритания'}, {'name': 'США'}]"
+tt5157456,https://st.kp.yandex.net/images/film_big/707407.jpg,2016,707407,movie,"[{'name': 'история'}, {'name': 'драма'}]",[{'name': 'Россия'}]
+tt1682187,https://st.kp.yandex.net/images/film_big/471158.jpg,2010,471158,movie,"[{'name': 'мелодрама'}, {'name': 'комедия'}, {'name': 'спорт'}]",[{'name': 'Россия'}]
+tt5013056,https://st.kp.yandex.net/images/film_big/931677.jpg,2017,931677,movie,"[{'name': 'военный'}, {'name': 'драма'}, {'name': 'история'}]","[{'name': 'Великобритания'}, {'name': 'Нидерланды'}, {'name': 'Франция'}, {'name': 'США'}]"
+tt3896198,https://st.kp.yandex.net/images/film_big/841263.jpg,2017,841263,movie,"[{'name': 'фантастика'}, {'name': 'боевик'}, {'name': 'приключения'}, {'name': 'комедия'}]",[{'name': 'США'}]
+tt6841500,https://st.kp.yandex.net/images/film_big/840261.jpg,2017,840261,movie,[{'name': 'комедия'}],[{'name': 'Россия'}]
+tt2250912,https://st.kp.yandex.net/images/film_big/690593.jpg,2017,690593,movie,"[{'name': 'фантастика'}, {'name': 'боевик'}, {'name': 'приключения'}]",[{'name': 'США'}]
+tt0489270,https://st.kp.yandex.net/images/film_big/184417.jpg,2006,184417,movie,"[{'name': 'ужасы'}, {'name': 'триллер'}, {'name': 'детектив'}, {'name': 'криминал'}]","[{'name': 'Канада'}, {'name': 'США'}]"
+tt5653294,https://st.kp.yandex.net/images/film_big/839818.jpg,2016,839818,movie,"[{'name': 'драма'}, {'name': 'триллер'}, {'name': 'приключения'}]",[{'name': 'Россия'}]
+tt0432348,https://st.kp.yandex.net/images/film_big/86206.jpg,2005,86206,movie,"[{'name': 'ужасы'}, {'name': 'триллер'}, {'name': 'детектив'}, {'name': 'криминал'}]","[{'name': 'Канада'}, {'name': 'США'}]"
+tt4731148,https://st.kp.yandex.net/images/film_big/840250.jpg,2017,840250,movie,[{'name': 'фантастика'}],[{'name': 'Россия'}]
+tt2911666,https://st.kp.yandex.net/images/film_big/762738.jpg,2014,762738,movie,"[{'name': 'боевик'}, {'name': 'триллер'}, {'name': 'криминал'}]","[{'name': 'США'}, {'name': 'Китай'}]"
+tt6070530,https://st.kp.yandex.net/images/film_big/948999.jpg,2016,948999,movie,"[{'name': 'комедия'}, {'name': 'мелодрама'}]",[{'name': 'Россия'}]
+tt3892434,https://st.kp.yandex.net/images/film_big/923510.jpg,2014,923510,movie,[{'name': 'документальный'}],[{'name': 'Австралия'}]
+tt0387564,https://st.kp.yandex.net/images/film_big/64187.jpg,2004,64187,movie,"[{'name': 'ужасы'}, {'name': 'триллер'}, {'name': 'детектив'}]",[{'name': 'США'}]
+tt0080439,https://st.kp.yandex.net/images/film_big/63912.jpg,1980,63912,movie,"[{'name': 'мелодрама'}, {'name': 'комедия'}]",[{'name': 'Италия'}]
+tt0356634,https://st.kp.yandex.net/images/film_big/8932.jpg,2004,8932,movie,"[{'name': 'комедия'}, {'name': 'семейный'}, {'name': 'фэнтези'}]",[{'name': 'США'}]
+tt1403865,https://st.kp.yandex.net/images/film_big/462553.jpg,2010,462553,movie,"[{'name': 'вестерн'}, {'name': 'драма'}, {'name': 'приключения'}]",[{'name': 'США'}]
+tt0457433,https://st.kp.yandex.net/images/film_big/104924.jpg,2007,104924,movie,"[{'name': 'триллер'}, {'name': 'криминал'}, {'name': 'детектив'}]",[{'name': 'США'}]
+tt2333804,https://st.kp.yandex.net/images/film_big/696977.jpg,2013,696977,movie,"[{'name': 'фантастика'}, {'name': 'триллер'}, {'name': 'драма'}, {'name': 'комедия'}]","[{'name': 'Великобритания'}, {'name': 'Румыния'}, {'name': 'Франция'}]"
+tt5526660,https://st.kp.yandex.net/images/film_big/927771.jpg,2016,927771,movie,[{'name': 'комедия'}],[{'name': 'Россия'}]
+tt2182001,https://st.kp.yandex.net/images/film_big/601564.jpg,2012,601564,movie,"[{'name': 'биография'}, {'name': 'спорт'}, {'name': 'драма'}]",[{'name': 'Россия'}]
+tt2281159,https://st.kp.yandex.net/images/film_big/678997.jpg,2013,678997,movie,[{'name': 'ужасы'}],[{'name': 'США'}]
+tt1038919,https://st.kp.yandex.net/images/film_big/462662.jpg,2010,462662,movie,"[{'name': 'боевик'}, {'name': 'мелодрама'}, {'name': 'комедия'}, {'name': 'детектив'}]",[{'name': 'США'}]
+tt0252076,https://st.kp.yandex.net/images/film_big/4840.jpg,2002,4840,movie,"[{'name': 'драма'}, {'name': 'мелодрама'}, {'name': 'комедия'}]",[{'name': 'США'}]
+tt0404390,https://st.kp.yandex.net/images/film_big/78750.jpg,2005,78750,movie,"[{'name': 'боевик'}, {'name': 'триллер'}, {'name': 'драма'}, {'name': 'криминал'}]","[{'name': 'США'}, {'name': 'Германия'}]"
+tt0120815,https://st.kp.yandex.net/images/film_big/371.jpg,1998,371,movie,"[{'name': 'военный'}, {'name': 'боевик'}, {'name': 'история'}]",[{'name': 'США'}]
+tt1101026,https://st.kp.yandex.net/images/film_big/280938.jpg,2008,280938,movie,"[{'name': 'драма'}, {'name': 'история'}]",[{'name': 'Россия'}]
+tt0945513,https://st.kp.yandex.net/images/film_big/409295.jpg,2011,409295,movie,"[{'name': 'фантастика'}, {'name': 'боевик'}, {'name': 'триллер'}, {'name': 'драма'}]","[{'name': 'США'}, {'name': 'Канада'}, {'name': 'Франция'}, {'name': 'Германия'}]"
+tt2866360,https://st.kp.yandex.net/images/film_big/760829.jpg,2012,760829,movie,"[{'name': 'фантастика'}, {'name': 'триллер'}, {'name': 'драма'}]","[{'name': 'США'}, {'name': 'Великобритания'}]"
+,https://st.kp.yandex.net/images/film_big/524631.jpg,2011,524631,movie,"[{'name': 'боевик'}, {'name': 'триллер'}]","[{'name': 'Канада'}, {'name': 'Бельгия'}]"
+tt5442430,https://st.kp.yandex.net/images/film_big/966995.jpg,2017,966995,movie,"[{'name': 'ужасы'}, {'name': 'фантастика'}, {'name': 'триллер'}]","[{'name': 'США'}, {'name': 'Великобритания'}]"
+tt0451279,https://st.kp.yandex.net/images/film_big/102383.jpg,2017,102383,movie,"[{'name': 'фантастика'}, {'name': 'боевик'}, {'name': 'военный'}, {'name': 'фэнтези'}]","[{'name': 'США'}, {'name': 'Китай'}]"
+tt2316204,https://st.kp.yandex.net/images/film_big/695548.jpg,2017,695548,movie,"[{'name': 'ужасы'}, {'name': 'фантастика'}]","[{'name': 'США'}, {'name': 'Великобритания'}]"
+tt3062096,https://st.kp.yandex.net/images/film_big/780470.jpg,2016,780470,movie,"[{'name': 'боевик'}, {'name': 'триллер'}, {'name': 'драма'}, {'name': 'криминал'}, {'name': 'детектив'}, {'name': 'приключения'}]","[{'name': 'США'}, {'name': 'Венгрия'}]"
+tt0933361,https://st.kp.yandex.net/images/film_big/271513.jpg,2006,271513,movie,"[{'name': 'драма'}, {'name': 'мелодрама'}, {'name': 'комедия'}]",[{'name': 'Россия'}]
+tt1465522,https://st.kp.yandex.net/images/film_big/485261.jpg,2010,485261,movie,"[{'name': 'ужасы'}, {'name': 'комедия'}]","[{'name': 'Канада'}, {'name': 'США'}]"
+tt2094766,https://st.kp.yandex.net/images/film_big/690615.jpg,2016,690615,movie,"[{'name': 'фантастика'}, {'name': 'боевик'}, {'name': 'приключения'}]","[{'name': 'США'}, {'name': 'Франция'}, {'name': 'Великобритания'}, {'name': 'Гонконг'}, {'name': 'Тайвань'}, {'name': 'Мальта'}, {'name': 'Испания'}, {'name': 'Канада'}]"
+tt4084744,https://st.kp.yandex.net/images/film_big/742026.jpg,2015,742026,movie,"[{'name': 'военный'}, {'name': 'биография'}, {'name': 'драма'}, {'name': 'история'}, {'name': 'боевик'}]","[{'name': 'Россия'}, {'name': 'Украина'}]"
+tt1430132,https://st.kp.yandex.net/images/film_big/462754.jpg,2013,462754,movie,"[{'name': 'фантастика'}, {'name': 'боевик'}]","[{'name': 'США'}, {'name': 'Великобритания'}, {'name': 'Япония'}]"
+tt3315342,https://st.kp.yandex.net/images/film_big/807682.jpg,2017,807682,movie,"[{'name': 'фантастика'}, {'name': 'боевик'}, {'name': 'триллер'}, {'name': 'драма'}]",[{'name': 'США'}]
+tt5161058,https://st.kp.yandex.net/images/film_big/946883.jpg,2016,946883,movie,[{'name': 'комедия'}],[{'name': 'Россия'}]
+tt2543164,https://st.kp.yandex.net/images/film_big/718811.jpg,2016,718811,movie,"[{'name': 'фантастика'}, {'name': 'драма'}]","[{'name': 'США'}, {'name': 'Канада'}]"
+tt4550098,https://st.kp.yandex.net/images/film_big/909898.jpg,2016,909898,movie,"[{'name': 'триллер'}, {'name': 'драма'}]","[{'name': 'США'}, {'name': 'Китай'}]"
+tt3783958,https://st.kp.yandex.net/images/film_big/841081.jpg,2016,841081,movie,"[{'name': 'мюзикл'}, {'name': 'драма'}, {'name': 'мелодрама'}, {'name': 'комедия'}, {'name': 'музыка'}]","[{'name': 'США'}, {'name': 'Гонконг'}]"
+tt1475582,https://st.kp.yandex.net/images/film_big/502838.jpg,2010,502838,tv-series,"[{'name': 'детектив'}, {'name': 'триллер'}, {'name': 'драма'}, {'name': 'криминал'}]","[{'name': 'Великобритания'}, {'name': 'США'}]"
+tt2005151,https://st.kp.yandex.net/images/film_big/602749.jpg,2016,602749,movie,"[{'name': 'драма'}, {'name': 'комедия'}, {'name': 'криминал'}, {'name': 'военный'}, {'name': 'биография'}]","[{'name': 'США'}, {'name': 'Румыния'}]"
+tt3072482,https://st.kp.yandex.net/images/film_big/778218.jpg,2016,778218,movie,"[{'name': 'боевик'}, {'name': 'фантастика'}]","[{'name': 'Россия'}, {'name': 'США'}]"
+tt1355644,https://st.kp.yandex.net/images/film_big/470689.jpg,2016,470689,movie,"[{'name': 'фантастика'}, {'name': 'триллер'}, {'name': 'драма'}, {'name': 'мелодрама'}]","[{'name': 'США'}, {'name': 'Австралия'}]"
+tt3460252,https://st.kp.yandex.net/images/film_big/819101.jpg,2015,819101,movie,"[{'name': 'вестерн'}, {'name': 'криминал'}, {'name': 'триллер'}, {'name': 'драма'}, {'name': 'детектив'}]",[{'name': 'США'}]
+tt3110958,https://st.kp.yandex.net/images/film_big/786958.jpg,2016,786958,movie,"[{'name': 'боевик'}, {'name': 'триллер'}, {'name': 'комедия'}, {'name': 'криминал'}, {'name': 'детектив'}, {'name': 'приключения'}]","[{'name': 'США'}, {'name': 'Франция'}]"
+tt3385516,https://st.kp.yandex.net/images/film_big/814016.jpg,2016,814016,movie,"[{'name': 'фантастика'}, {'name': 'боевик'}, {'name': 'приключения'}]",[{'name': 'США'}]
+tt1386697,https://st.kp.yandex.net/images/film_big/468522.jpg,2016,468522,movie,"[{'name': 'фантастика'}, {'name': 'боевик'}, {'name': 'фэнтези'}, {'name': 'приключения'}]",[{'name': 'США'}]
+tt3393786,https://st.kp.yandex.net/images/film_big/817245.jpg,2016,817245,movie,"[{'name': 'боевик'}, {'name': 'триллер'}, {'name': 'криминал'}]","[{'name': 'США'}, {'name': 'Китай'}]"
+tt5282006,https://st.kp.yandex.net/images/film_big/840234.jpg,2016,840234,movie,[{'name': 'драма'}],[{'name': 'Россия'}]
+tt1700841,https://st.kp.yandex.net/images/film_big/557804.jpg,2016,557804,cartoon,"[{'name': 'мультфильм'}, {'name': 'фэнтези'}, {'name': 'комедия'}, {'name': 'приключения'}]","[{'name': 'США'}, {'name': 'Канада'}]"
+tt3079380,https://st.kp.yandex.net/images/film_big/782792.jpg,2015,782792,movie,"[{'name': 'боевик'}, {'name': 'комедия'}]",[{'name': 'США'}]
+tt0425112,https://st.kp.yandex.net/images/film_big/93377.jpg,2007,93377,movie,"[{'name': 'боевик'}, {'name': 'триллер'}, {'name': 'комедия'}, {'name': 'детектив'}]","[{'name': 'Великобритания'}, {'name': 'Франция'}]"
+tt2567026,https://st.kp.yandex.net/images/film_big/723988.jpg,2016,723988,movie,"[{'name': 'фэнтези'}, {'name': 'детектив'}, {'name': 'приключения'}, {'name': 'семейный'}]",[{'name': 'США'}]
+tt1179933,https://st.kp.yandex.net/images/film_big/843463.jpg,2016,843463,movie,"[{'name': 'триллер'}, {'name': 'драма'}, {'name': 'фантастика'}]",[{'name': 'США'}]
+tt0120735,https://st.kp.yandex.net/images/film_big/522.jpg,1998,522,movie,"[{'name': 'боевик'}, {'name': 'комедия'}, {'name': 'криминал'}]",[{'name': 'Великобритания'}]
+tt1340138,https://st.kp.yandex.net/images/film_big/436225.jpg,2015,436225,movie,"[{'name': 'фантастика'}, {'name': 'боевик'}, {'name': 'триллер'}]","[{'name': 'США'}, {'name': 'Канада'}]"
+tt0803096,https://st.kp.yandex.net/images/film_big/277328.jpg,2016,277328,movie,"[{'name': 'фэнтези'}, {'name': 'боевик'}, {'name': 'приключения'}]","[{'name': 'США'}, {'name': 'Канада'}, {'name': 'Китай'}, {'name': 'Япония'}]"
+tt2316411,https://st.kp.yandex.net/images/film_big/673910.jpg,2013,673910,movie,"[{'name': 'триллер'}, {'name': 'драма'}, {'name': 'детектив'}]","[{'name': 'Канада'}, {'name': 'Франция'}, {'name': 'Испания'}]"
+tt2975590,https://st.kp.yandex.net/images/film_big/770631.jpg,2016,770631,movie,"[{'name': 'фантастика'}, {'name': 'боевик'}, {'name': 'фэнтези'}, {'name': 'приключения'}]",[{'name': 'США'}]
+tt4629032,https://st.kp.yandex.net/images/film_big/840754.jpg,2015,840754,movie,"[{'name': 'драма'}, {'name': 'военный'}, {'name': 'история'}]",[{'name': 'Россия'}]
+tt1392190,https://st.kp.yandex.net/images/film_big/453406.jpg,2015,453406,movie,"[{'name': 'боевик'}, {'name': 'фантастика'}, {'name': 'приключения'}]","[{'name': 'Австралия'}, {'name': 'США'}]"
+tt2948356,https://st.kp.yandex.net/images/film_big/775276.jpg,2016,775276,cartoon,"[{'name': 'мультфильм'}, {'name': 'комедия'}, {'name': 'криминал'}, {'name': 'детектив'}, {'name': 'приключения'}, {'name': 'семейный'}]",[{'name': 'США'}]
+tt3107288,https://st.kp.yandex.net/images/film_big/817506.jpg,2014,817506,tv-series,"[{'name': 'фантастика'}, {'name': 'боевик'}, {'name': 'драма'}, {'name': 'приключения'}]",[{'name': 'США'}]
+tt1976009,https://st.kp.yandex.net/images/film_big/596985.jpg,2015,596985,movie,"[{'name': 'ужасы'}, {'name': 'фантастика'}, {'name': 'триллер'}, {'name': 'драма'}]","[{'name': 'США'}, {'name': 'Великобритания'}, {'name': 'Канада'}]"
+tt3064298,https://st.kp.yandex.net/images/film_big/784455.jpg,2015,784455,movie,"[{'name': 'драма'}, {'name': 'мелодрама'}, {'name': 'комедия'}]","[{'name': 'Великобритания'}, {'name': 'Франция'}, {'name': 'США'}]"
+tt1431045,https://st.kp.yandex.net/images/film_big/462360.jpg,2016,462360,movie,"[{'name': 'фантастика'}, {'name': 'боевик'}, {'name': 'комедия'}, {'name': 'приключения'}]",[{'name': 'США'}]
+tt0478970,https://st.kp.yandex.net/images/film_big/195496.jpg,2015,195496,movie,"[{'name': 'фантастика'}, {'name': 'боевик'}, {'name': 'комедия'}, {'name': 'приключения'}]",[{'name': 'США'}]
+tt1502712,https://st.kp.yandex.net/images/film_big/471642.jpg,2015,471642,movie,"[{'name': 'фантастика'}, {'name': 'боевик'}, {'name': 'приключения'}]","[{'name': 'США'}, {'name': 'Германия'}, {'name': 'Великобритания'}]"
+tt3659388,https://st.kp.yandex.net/images/film_big/841700.jpg,2015,841700,movie,"[{'name': 'фантастика'}, {'name': 'приключения'}]","[{'name': 'США'}, {'name': 'Великобритания'}, {'name': 'Венгрия'}, {'name': 'Иордания'}]"
+tt1638355,https://st.kp.yandex.net/images/film_big/518042.jpg,2015,518042,movie,"[{'name': 'боевик'}, {'name': 'комедия'}, {'name': 'приключения'}]","[{'name': 'США'}, {'name': 'Великобритания'}]"
+tt2140379,https://st.kp.yandex.net/images/film_big/655435.jpg,2015,655435,movie,"[{'name': 'фантастика'}, {'name': 'триллер'}, {'name': 'боевик'}]",[{'name': 'США'}]
+tt2872718,https://st.kp.yandex.net/images/film_big/760815.jpg,2013,760815,movie,"[{'name': 'триллер'}, {'name': 'драма'}, {'name': 'криминал'}]",[{'name': 'США'}]
+tt3042408,https://st.kp.yandex.net/images/film_big/779602.jpg,2014,779602,movie,"[{'name': 'фантастика'}, {'name': 'триллер'}, {'name': 'драма'}, {'name': 'криминал'}, {'name': 'детектив'}]",[{'name': 'Германия'}]
+tt2379713,https://st.kp.yandex.net/images/film_big/678552.jpg,2015,678552,movie,"[{'name': 'боевик'}, {'name': 'триллер'}, {'name': 'приключения'}]","[{'name': 'Великобритания'}, {'name': 'США'}]"
+tt1790864,https://st.kp.yandex.net/images/film_big/575613.jpg,2014,575613,movie,"[{'name': 'фантастика'}, {'name': 'триллер'}, {'name': 'приключения'}]","[{'name': 'США'}, {'name': 'Великобритания'}]"
+tt0450385,https://st.kp.yandex.net/images/film_big/195563.jpg,2007,195563,movie,"[{'name': 'ужасы'}, {'name': 'триллер'}]",[{'name': 'США'}]
+tt0338013,https://st.kp.yandex.net/images/film_big/5492.jpg,2004,5492,movie,"[{'name': 'мелодрама'}, {'name': 'фантастика'}, {'name': 'драма'}]",[{'name': 'США'}]
+tt2911668,https://st.kp.yandex.net/images/film_big/762833.jpg,2014,762833,movie,[{'name': 'триллер'}],[{'name': 'США'}]
+tt2802144,https://st.kp.yandex.net/images/film_big/749540.jpg,2015,749540,movie,"[{'name': 'боевик'}, {'name': 'комедия'}, {'name': 'криминал'}, {'name': 'приключения'}]","[{'name': 'Великобритания'}, {'name': 'США'}]"
+tt4528786,https://st.kp.yandex.net/images/film_big/893218.jpg,2015,893218,movie,"[{'name': 'документальный'}, {'name': 'история'}]",[{'name': 'Россия'}]
+tt4553720,https://st.kp.yandex.net/images/film_big/762373.jpg,2011,762373,tv-series,[{'name': 'реальное ТВ'}],[{'name': 'Украина'}]
+tt1617661,https://st.kp.yandex.net/images/film_big/505966.jpg,2015,505966,movie,"[{'name': 'фантастика'}, {'name': 'боевик'}, {'name': 'приключения'}]","[{'name': 'США'}, {'name': 'Австралия'}]"
+tt0813541,https://st.kp.yandex.net/images/film_big/252063.jpg,2006,252063,movie,"[{'name': 'мелодрама'}, {'name': 'комедия'}]",[{'name': 'Россия'}]
+tt0878804,https://st.kp.yandex.net/images/film_big/450213.jpg,2009,450213,movie,"[{'name': 'драма'}, {'name': 'спорт'}, {'name': 'биография'}]",[{'name': 'США'}]
+tt1711425,https://st.kp.yandex.net/images/film_big/566387.jpg,2013,566387,movie,[{'name': 'комедия'}],[{'name': 'США'}]
+tt2364841,https://st.kp.yandex.net/images/film_big/677880.jpg,2013,677880,movie,"[{'name': 'триллер'}, {'name': 'криминал'}]",[{'name': 'США'}]
+tt2381941,https://st.kp.yandex.net/images/film_big/680824.jpg,2014,680824,movie,"[{'name': 'драма'}, {'name': 'мелодрама'}, {'name': 'комедия'}, {'name': 'криминал'}]","[{'name': 'США'}, {'name': 'Аргентина'}]"
+tt0065670,https://st.kp.yandex.net/images/film_big/46789.jpg,1971,46789,movie,"[{'name': 'комедия'}, {'name': 'приключения'}, {'name': 'криминал'}]",[{'name': 'СССР'}]
+tt3472226,https://st.kp.yandex.net/images/film_big/824954.jpg,2015,824954,movie,"[{'name': 'короткометражка'}, {'name': 'фантастика'}, {'name': 'фэнтези'}, {'name': 'боевик'}, {'name': 'комедия'}]",[{'name': 'Швеция'}]
+tt1291150,https://st.kp.yandex.net/images/film_big/461206.jpg,2014,461206,movie,"[{'name': 'фантастика'}, {'name': 'боевик'}, {'name': 'комедия'}, {'name': 'приключения'}]",[{'name': 'США'}]
+tt0080684,https://st.kp.yandex.net/images/film_big/338.jpg,1980,338,movie,"[{'name': 'фантастика'}, {'name': 'боевик'}, {'name': 'фэнтези'}, {'name': 'приключения'}]",[{'name': 'США'}]
+tt0076759,https://st.kp.yandex.net/images/film_big/333.jpg,1977,333,movie,"[{'name': 'фантастика'}, {'name': 'боевик'}, {'name': 'фэнтези'}, {'name': 'приключения'}]",[{'name': 'США'}]
+tt2752200,https://st.kp.yandex.net/images/film_big/743392.jpg,2013,743392,movie,[{'name': 'драма'}],[{'name': 'Франция'}]
+tt2084970,https://st.kp.yandex.net/images/film_big/635772.jpg,2014,635772,movie,"[{'name': 'биография'}, {'name': 'военный'}, {'name': 'драма'}, {'name': 'история'}]","[{'name': 'Великобритания'}, {'name': 'США'}]"
+tt2015381,https://st.kp.yandex.net/images/film_big/689066.jpg,2014,689066,movie,"[{'name': 'фантастика'}, {'name': 'боевик'}, {'name': 'приключения'}, {'name': 'комедия'}]",[{'name': 'США'}]
+,https://st.kp.yandex.net/images/film_big/70952.jpg,2004,70952,movie,"[{'name': 'боевик'}, {'name': 'триллер'}, {'name': 'драма'}]",[{'name': 'Россия'}]
+tt2562232,https://st.kp.yandex.net/images/film_big/722827.jpg,2014,722827,movie,"[{'name': 'драма'}, {'name': 'комедия'}]",[{'name': 'США'}]
+tt1877832,https://st.kp.yandex.net/images/film_big/597687.jpg,2014,597687,movie,"[{'name': 'фантастика'}, {'name': 'боевик'}, {'name': 'триллер'}, {'name': 'приключения'}]","[{'name': 'США'}, {'name': 'Великобритания'}]"
+tt2267998,https://st.kp.yandex.net/images/film_big/692861.jpg,2014,692861,movie,"[{'name': 'триллер'}, {'name': 'драма'}, {'name': 'детектив'}]",[{'name': 'США'}]
+tt1959490,https://st.kp.yandex.net/images/film_big/596001.jpg,2014,596001,movie,"[{'name': 'драма'}, {'name': 'приключения'}, {'name': 'фэнтези'}]",[{'name': 'США'}]
+tt1187043,https://st.kp.yandex.net/images/film_big/423210.jpg,2009,423210,movie,"[{'name': 'комедия'}, {'name': 'мелодрама'}]",[{'name': 'Индия'}]
+tt1863347,https://st.kp.yandex.net/images/film_big/502733.jpg,2011,502733,movie,"[{'name': 'мелодрама'}, {'name': 'комедия'}]",[{'name': 'Россия'}]
+tt0485755,https://st.kp.yandex.net/images/film_big/259931.jpg,2004,259931,movie,[{'name': 'документальный'}],[{'name': 'Франция'}]
+tt2799166,https://st.kp.yandex.net/images/film_big/749507.jpg,2014,749507,movie,"[{'name': 'ужасы'}, {'name': 'триллер'}, {'name': 'детектив'}]","[{'name': 'США'}, {'name': 'Марокко'}]"
+tt1211956,https://st.kp.yandex.net/images/film_big/463686.jpg,2013,463686,movie,"[{'name': 'боевик'}, {'name': 'триллер'}]",[{'name': 'США'}]
+tt0831387,https://st.kp.yandex.net/images/film_big/260991.jpg,2014,260991,movie,"[{'name': 'фантастика'}, {'name': 'боевик'}, {'name': 'триллер'}, {'name': 'приключения'}]","[{'name': 'США'}, {'name': 'Япония'}]"
+tt2294449,https://st.kp.yandex.net/images/film_big/672899.jpg,2014,672899,movie,"[{'name': 'комедия'}, {'name': 'боевик'}, {'name': 'криминал'}]",[{'name': 'США'}]
+tt2024544,https://st.kp.yandex.net/images/film_big/606646.jpg,2013,606646,movie,"[{'name': 'драма'}, {'name': 'биография'}, {'name': 'история'}]","[{'name': 'США'}, {'name': 'Великобритания'}]"
+tt1981115,https://st.kp.yandex.net/images/film_big/595938.jpg,2013,595938,movie,"[{'name': 'фэнтези'}, {'name': 'боевик'}, {'name': 'приключения'}]",[{'name': 'США'}]
+tt3063516,https://st.kp.yandex.net/images/film_big/780451.jpg,2013,780451,movie,[{'name': 'комедия'}],[{'name': 'США'}]
+tt1872181,https://st.kp.yandex.net/images/film_big/602409.jpg,2014,602409,movie,"[{'name': 'фантастика'}, {'name': 'боевик'}, {'name': 'приключения'}]",[{'name': 'США'}]
+tt1907668,https://st.kp.yandex.net/images/film_big/592203.jpg,2012,592203,movie,"[{'name': 'триллер'}, {'name': 'драма'}]","[{'name': 'США'}, {'name': 'ОАЭ'}]"
+tt0465494,https://st.kp.yandex.net/images/film_big/104901.jpg,2007,104901,movie,"[{'name': 'боевик'}, {'name': 'триллер'}, {'name': 'криминал'}]","[{'name': 'Франция'}, {'name': 'США'}]"
+tt0386588,https://st.kp.yandex.net/images/film_big/77454.jpg,2005,77454,movie,"[{'name': 'мелодрама'}, {'name': 'комедия'}]",[{'name': 'США'}]
+tt0480249,https://st.kp.yandex.net/images/film_big/195524.jpg,2007,195524,movie,"[{'name': 'фантастика'}, {'name': 'боевик'}, {'name': 'триллер'}, {'name': 'драма'}, {'name': 'приключения'}]",[{'name': 'США'}]
+tt0825232,https://st.kp.yandex.net/images/film_big/258885.jpg,2007,258885,movie,"[{'name': 'драма'}, {'name': 'комедия'}, {'name': 'приключения'}]",[{'name': 'США'}]
+tt2870708,https://st.kp.yandex.net/images/film_big/760376.jpg,2014,760376,movie,"[{'name': 'драма'}, {'name': 'комедия'}]",[{'name': 'США'}]
+,https://st.kp.yandex.net/images/film_big/681849.jpg,2012,681849,movie,"[{'name': 'триллер'}, {'name': 'драма'}, {'name': 'криминал'}]",[{'name': 'Италия'}]
+tt1193138,https://st.kp.yandex.net/images/film_big/464130.jpg,2009,464130,movie,"[{'name': 'драма'}, {'name': 'мелодрама'}, {'name': 'комедия'}]",[{'name': 'США'}]
+tt1377575,https://st.kp.yandex.net/images/film_big/450760.jpg,2008,450760,movie,"[{'name': 'короткометражка'}, {'name': 'мелодрама'}]",[{'name': 'Австралия'}]
+tt3805180,https://st.kp.yandex.net/images/film_big/679554.jpg,2013,679554,movie,"[{'name': 'комедия'}, {'name': 'криминал'}]",[{'name': 'Россия'}]
+tt3711466,https://st.kp.yandex.net/images/film_big/795847.jpg,2014,795847,movie,[{'name': 'комедия'}],[{'name': 'Россия'}]
+tt1438463,https://st.kp.yandex.net/images/film_big/417840.jpg,2009,417840,movie,"[{'name': 'драма'}, {'name': 'комедия'}, {'name': 'приключения'}]",[{'name': 'Россия'}]
+tt0209144,https://st.kp.yandex.net/images/film_big/335.jpg,2000,335,movie,"[{'name': 'триллер'}, {'name': 'детектив'}, {'name': 'драма'}, {'name': 'криминал'}]",[{'name': 'США'}]
+tt1800241,https://st.kp.yandex.net/images/film_big/635177.jpg,2013,635177,movie,"[{'name': 'драма'}, {'name': 'комедия'}]","[{'name': 'США'}, {'name': 'Китай'}]"
+tt2278388,https://st.kp.yandex.net/images/film_big/683999.jpg,2014,683999,movie,"[{'name': 'комедия'}, {'name': 'приключения'}, {'name': 'детектив'}, {'name': 'криминал'}]","[{'name': 'США'}, {'name': 'Германия'}]"
+tt1631867,https://st.kp.yandex.net/images/film_big/505851.jpg,2014,505851,movie,"[{'name': 'фантастика'}, {'name': 'боевик'}, {'name': 'приключения'}]","[{'name': 'США'}, {'name': 'Канада'}]"
+tt2229499,https://st.kp.yandex.net/images/film_big/666731.jpg,2013,666731,movie,"[{'name': 'драма'}, {'name': 'мелодрама'}, {'name': 'комедия'}]",[{'name': 'США'}]
+tt1483013,https://st.kp.yandex.net/images/film_big/470185.jpg,2013,470185,movie,"[{'name': 'фантастика'}, {'name': 'боевик'}, {'name': 'триллер'}, {'name': 'приключения'}, {'name': 'мелодрама'}]",[{'name': 'США'}]
+tt1204975,https://st.kp.yandex.net/images/film_big/468571.jpg,2013,468571,movie,"[{'name': 'комедия'}, {'name': 'драма'}]",[{'name': 'США'}]
+,https://st.kp.yandex.net/images/film_big/461934.jpg,2013,461934,movie,"[{'name': 'фэнтези'}, {'name': 'боевик'}, {'name': 'приключения'}]","[{'name': 'США'}, {'name': 'Австралия'}]"
+tt1595366,https://st.kp.yandex.net/images/film_big/468102.jpg,2010,468102,movie,[{'name': 'комедия'}],[{'name': 'Россия'}]
+tt1663662,https://st.kp.yandex.net/images/film_big/546915.jpg,2013,546915,movie,"[{'name': 'фантастика'}, {'name': 'боевик'}, {'name': 'приключения'}]","[{'name': 'США'}, {'name': 'Мексика'}, {'name': 'Гонконг'}]"
+tt1928340,https://st.kp.yandex.net/images/film_big/591789.jpg,2013,591789,movie,"[{'name': 'драма'}, {'name': 'фэнтези'}, {'name': 'история'}]","[{'name': 'США'}, {'name': 'Индонезия'}]"
+tt3043542,https://st.kp.yandex.net/images/film_big/806273.jpg,2013,806273,cartoon,"[{'name': 'мультфильм'}, {'name': 'короткометражка'}, {'name': 'фэнтези'}, {'name': 'комедия'}, {'name': 'семейный'}]","[{'name': 'Люксембург'}, {'name': 'Франция'}]"
+tt0884328,https://st.kp.yandex.net/images/film_big/273302.jpg,2007,273302,movie,"[{'name': 'ужасы'}, {'name': 'триллер'}, {'name': 'фантастика'}]",[{'name': 'США'}]
+tt1454468,https://st.kp.yandex.net/images/film_big/468466.jpg,2013,468466,movie,"[{'name': 'фантастика'}, {'name': 'боевик'}, {'name': 'триллер'}, {'name': 'драма'}]","[{'name': 'США'}, {'name': 'Мексика'}, {'name': 'Великобритания'}]"
+tt1234721,https://st.kp.yandex.net/images/film_big/416183.jpg,2014,416183,movie,"[{'name': 'фантастика'}, {'name': 'боевик'}, {'name': 'криминал'}]",[{'name': 'США'}]
+tt1853728,https://st.kp.yandex.net/images/film_big/586397.jpg,2012,586397,movie,"[{'name': 'вестерн'}, {'name': 'боевик'}, {'name': 'драма'}, {'name': 'комедия'}]",[{'name': 'США'}]
+tt0993846,https://st.kp.yandex.net/images/film_big/462682.jpg,2013,462682,movie,"[{'name': 'драма'}, {'name': 'криминал'}, {'name': 'биография'}, {'name': 'комедия'}]",[{'name': 'США'}]
+tt1549920,https://st.kp.yandex.net/images/film_big/489439.jpg,2013,489439,movie,"[{'name': 'боевик'}, {'name': 'триллер'}, {'name': 'вестерн'}]","[{'name': 'США'}, {'name': 'Корея Южная'}]"
+tt0374298,https://st.kp.yandex.net/images/film_big/40775.jpg,2005,40775,movie,"[{'name': 'боевик'}, {'name': 'триллер'}, {'name': 'детектив'}, {'name': 'приключения'}, {'name': 'военный'}]","[{'name': 'Россия'}, {'name': 'Болгария'}]"
+tt2334879,https://st.kp.yandex.net/images/film_big/675649.jpg,2013,675649,movie,"[{'name': 'боевик'}, {'name': 'триллер'}]",[{'name': 'США'}]
+tt0790736,https://st.kp.yandex.net/images/film_big/462454.jpg,2013,462454,movie,"[{'name': 'фэнтези'}, {'name': 'боевик'}, {'name': 'комедия'}, {'name': 'приключения'}, {'name': 'фантастика'}]",[{'name': 'США'}]
+tt3121434,https://st.kp.yandex.net/images/film_big/652659.jpg,2013,652659,movie,"[{'name': 'семейный'}, {'name': 'комедия'}]",[{'name': 'Россия'}]
+tt2194499,https://st.kp.yandex.net/images/film_big/662596.jpg,2013,662596,movie,"[{'name': 'фантастика'}, {'name': 'фэнтези'}, {'name': 'драма'}, {'name': 'мелодрама'}, {'name': 'комедия'}]","[{'name': 'Великобритания'}, {'name': 'США'}]"
+tt1980209,https://st.kp.yandex.net/images/film_big/596227.jpg,2013,596227,movie,"[{'name': 'криминал'}, {'name': 'комедия'}, {'name': 'триллер'}, {'name': 'боевик'}]",[{'name': 'США'}]
+tt1951261,https://st.kp.yandex.net/images/film_big/600847.jpg,2013,600847,movie,"[{'name': 'комедия'}, {'name': 'криминал'}]",[{'name': 'США'}]
+tt1815862,https://st.kp.yandex.net/images/film_big/577285.jpg,2013,577285,movie,"[{'name': 'фантастика'}, {'name': 'приключения'}, {'name': 'боевик'}]",[{'name': 'США'}]
+tt0770828,https://st.kp.yandex.net/images/film_big/252667.jpg,2013,252667,movie,"[{'name': 'фантастика'}, {'name': 'боевик'}, {'name': 'приключения'}]","[{'name': 'США'}, {'name': 'Великобритания'}]"
+tt3338310,https://st.kp.yandex.net/images/film_big/745274.jpg,2013,745274,movie,"[{'name': 'комедия'}, {'name': 'приключения'}]",[{'name': 'Россия'}]
+tt3155604,https://st.kp.yandex.net/images/film_big/653696.jpg,2013,653696,movie,[{'name': 'драма'}],[{'name': 'Россия'}]
+tt0401383,https://st.kp.yandex.net/images/film_big/77435.jpg,2007,77435,movie,"[{'name': 'драма'}, {'name': 'биография'}]","[{'name': 'Франция'}, {'name': 'США'}]"
+tt1343092,https://st.kp.yandex.net/images/film_big/463724.jpg,2013,463724,movie,"[{'name': 'драма'}, {'name': 'мелодрама'}]","[{'name': 'Австралия'}, {'name': 'США'}]"
+tt0986272,https://st.kp.yandex.net/images/film_big/282491.jpg,2007,282491,movie,"[{'name': 'короткометражка'}, {'name': 'мелодрама'}, {'name': 'комедия'}]",[{'name': 'США'}]
+tt1333125,https://st.kp.yandex.net/images/film_big/432725.jpg,2013,432725,movie,[{'name': 'комедия'}],[{'name': 'США'}]
+tt2357129,https://st.kp.yandex.net/images/film_big/677798.jpg,2013,677798,movie,"[{'name': 'драма'}, {'name': 'биография'}]","[{'name': 'США'}, {'name': 'Швейцария'}]"
+tt1723121,https://st.kp.yandex.net/images/film_big/582170.jpg,2013,582170,movie,"[{'name': 'комедия'}, {'name': 'криминал'}]","[{'name': 'США'}, {'name': 'Великобритания'}]"
+tt2194625,https://st.kp.yandex.net/images/film_big/636356.jpg,2011,636356,movie,"[{'name': 'мелодрама'}, {'name': 'комедия'}]",[{'name': 'Россия'}]
+,https://st.kp.yandex.net/images/film_big/679550.jpg,2012,679550,movie,[{'name': 'комедия'}],[{'name': 'Россия'}]
+tt1700258,https://st.kp.yandex.net/images/film_big/542600.jpg,2010,542600,movie,"[{'name': 'мелодрама'}, {'name': 'комедия'}]",[{'name': 'Германия'}]
+,https://st.kp.yandex.net/images/film_big/651645.jpg,2011,651645,tv-series,[{'name': 'комедия'}],[{'name': 'Россия'}]
+tt1217613,https://st.kp.yandex.net/images/film_big/427542.jpg,2011,427542,movie,"[{'name': 'фантастика'}, {'name': 'боевик'}]",[{'name': 'США'}]
+tt0970416,https://st.kp.yandex.net/images/film_big/280176.jpg,2008,280176,movie,"[{'name': 'фантастика'}, {'name': 'триллер'}, {'name': 'драма'}]",[{'name': 'США'}]
+tt1045658,https://st.kp.yandex.net/images/film_big/462938.jpg,2012,462938,movie,"[{'name': 'драма'}, {'name': 'мелодрама'}, {'name': 'комедия'}]",[{'name': 'США'}]
+tt0790724,https://st.kp.yandex.net/images/film_big/417583.jpg,2012,417583,movie,"[{'name': 'боевик'}, {'name': 'триллер'}, {'name': 'детектив'}, {'name': 'криминал'}]",[{'name': 'США'}]
+tt2649128,https://st.kp.yandex.net/images/film_big/521689.jpg,2012,521689,movie,"[{'name': 'триллер'}, {'name': 'драма'}]",[{'name': 'Россия'}]
+tt1817273,https://st.kp.yandex.net/images/film_big/577673.jpg,2012,577673,movie,"[{'name': 'триллер'}, {'name': 'драма'}, {'name': 'криминал'}]",[{'name': 'США'}]
+tt1547234,https://st.kp.yandex.net/images/film_big/489415.jpg,2012,489415,movie,"[{'name': 'триллер'}, {'name': 'криминал'}]",[{'name': 'США'}]
+tt1670345,https://st.kp.yandex.net/images/film_big/522892.jpg,2013,522892,movie,"[{'name': 'криминал'}, {'name': 'триллер'}, {'name': 'детектив'}]","[{'name': 'США'}, {'name': 'Франция'}]"
+tt1706593,https://st.kp.yandex.net/images/film_big/559242.jpg,2012,559242,movie,"[{'name': 'фантастика'}, {'name': 'боевик'}, {'name': 'триллер'}, {'name': 'драма'}]",[{'name': 'США'}]
+tt1623205,https://st.kp.yandex.net/images/film_big/506005.jpg,2013,506005,movie,"[{'name': 'фэнтези'}, {'name': 'приключения'}, {'name': 'комедия'}, {'name': 'семейный'}]",[{'name': 'США'}]
+tt2987342,https://st.kp.yandex.net/images/film_big/766592.jpg,2013,766592,movie,"[{'name': 'короткометражка'}, {'name': 'комедия'}, {'name': 'драма'}]","[{'name': 'США'}, {'name': 'Россия'}]"
+tt0211933,https://st.kp.yandex.net/images/film_big/37547.jpg,2007,37547,movie,"[{'name': 'триллер'}, {'name': 'драма'}, {'name': 'мелодрама'}, {'name': 'криминал'}]",[{'name': 'США'}]
+tt0773262,https://st.kp.yandex.net/images/film_big/277537.jpg,2006,277537,tv-series,"[{'name': 'триллер'}, {'name': 'драма'}, {'name': 'криминал'}, {'name': 'детектив'}]",[{'name': 'США'}]
+tt1300854,https://st.kp.yandex.net/images/film_big/462762.jpg,2013,462762,movie,"[{'name': 'фантастика'}, {'name': 'боевик'}, {'name': 'приключения'}]",[{'name': 'США'}]
+tt0385002,https://st.kp.yandex.net/images/film_big/77444.jpg,2005,77444,movie,"[{'name': 'драма'}, {'name': 'криминал'}, {'name': 'военный'}, {'name': 'спорт'}]","[{'name': 'Великобритания'}, {'name': 'США'}]"
+tt1659337,https://st.kp.yandex.net/images/film_big/523248.jpg,2012,523248,movie,"[{'name': 'драма'}, {'name': 'мелодрама'}]",[{'name': 'США'}]
+tt0877057,https://st.kp.yandex.net/images/film_big/406148.jpg,2006,406148,anime,"[{'name': 'аниме'}, {'name': 'мультфильм'}, {'name': 'фэнтези'}, {'name': 'триллер'}, {'name': 'драма'}, {'name': 'криминал'}, {'name': 'детектив'}]",[{'name': 'Япония'}]
+tt0814314,https://st.kp.yandex.net/images/film_big/395787.jpg,2008,395787,movie,"[{'name': 'драма'}, {'name': 'мелодрама'}]",[{'name': 'США'}]
+tt0163651,https://st.kp.yandex.net/images/film_big/5129.jpg,1999,5129,movie,[{'name': 'комедия'}],[{'name': 'США'}]
+tt0480255,https://st.kp.yandex.net/images/film_big/196748.jpg,2010,196748,movie,"[{'name': 'боевик'}, {'name': 'триллер'}, {'name': 'комедия'}, {'name': 'криминал'}, {'name': 'детектив'}, {'name': 'приключения'}]","[{'name': 'США'}, {'name': 'Франция'}]"
+tt0259711,https://st.kp.yandex.net/images/film_big/870.jpg,2001,870,movie,"[{'name': 'фантастика'}, {'name': 'мелодрама'}, {'name': 'детектив'}, {'name': 'триллер'}]","[{'name': 'США'}, {'name': 'Испания'}]"
+tt1588173,https://st.kp.yandex.net/images/film_big/497077.jpg,2013,497077,movie,"[{'name': 'ужасы'}, {'name': 'мелодрама'}, {'name': 'комедия'}]","[{'name': 'США'}, {'name': 'Канада'}]"
+tt2930610,https://st.kp.yandex.net/images/film_big/687595.jpg,2012,687595,tv-series,[{'name': 'комедия'}],[{'name': 'Россия'}]
+tt1722450,https://st.kp.yandex.net/images/film_big/542581.jpg,2010,542581,movie,"[{'name': 'драма'}, {'name': 'мелодрама'}, {'name': 'комедия'}]",[{'name': 'Россия'}]
+tt1232829,https://st.kp.yandex.net/images/film_big/413080.jpg,2012,413080,movie,"[{'name': 'боевик'}, {'name': 'комедия'}, {'name': 'криминал'}]",[{'name': 'США'}]
+tt0435670,https://st.kp.yandex.net/images/film_big/86573.jpg,2007,86573,movie,"[{'name': 'фэнтези'}, {'name': 'триллер'}, {'name': 'драма'}, {'name': 'криминал'}, {'name': 'детектив'}]","[{'name': 'США'}, {'name': 'Швеция'}, {'name': 'ЮАР'}]"
+tt0780536,https://st.kp.yandex.net/images/film_big/276295.jpg,2007,276295,movie,"[{'name': 'комедия'}, {'name': 'криминал'}, {'name': 'триллер'}, {'name': 'драма'}]","[{'name': 'Великобритания'}, {'name': 'США'}]"
+tt0829482,https://st.kp.yandex.net/images/film_big/261363.jpg,2007,261363,movie,[{'name': 'комедия'}],[{'name': 'США'}]
+tt0277027,https://st.kp.yandex.net/images/film_big/706.jpg,2001,706,movie,[{'name': 'драма'}],[{'name': 'США'}]
+tt1345836,https://st.kp.yandex.net/images/film_big/437410.jpg,2012,437410,movie,"[{'name': 'фантастика'}, {'name': 'боевик'}, {'name': 'триллер'}, {'name': 'драма'}, {'name': 'криминал'}]","[{'name': 'Великобритания'}, {'name': 'США'}]"
+tt0405743,https://st.kp.yandex.net/images/film_big/81584.jpg,2005,81584,movie,"[{'name': 'драма'}, {'name': 'мелодрама'}, {'name': 'комедия'}]",[{'name': 'Германия'}]
+tt1440129,https://st.kp.yandex.net/images/film_big/466844.jpg,2012,466844,movie,"[{'name': 'фантастика'}, {'name': 'боевик'}, {'name': 'триллер'}, {'name': 'приключения'}]","[{'name': 'США'}, {'name': 'Япония'}, {'name': 'Гонконг'}]"
+tt1082601,https://st.kp.yandex.net/images/film_big/394455.jpg,2009,394455,movie,"[{'name': 'драма'}, {'name': 'спорт'}, {'name': 'боевик'}]",[{'name': 'США'}]
+tt0290002,https://st.kp.yandex.net/images/film_big/61439.jpg,2004,61439,movie,"[{'name': 'мелодрама'}, {'name': 'комедия'}]",[{'name': 'США'}]
+tt1232200,https://st.kp.yandex.net/images/film_big/462884.jpg,2012,462884,movie,[{'name': 'комедия'}],[{'name': 'США'}]
+tt1386703,https://st.kp.yandex.net/images/film_big/453374.jpg,2012,453374,movie,"[{'name': 'фантастика'}, {'name': 'боевик'}, {'name': 'триллер'}, {'name': 'приключения'}]","[{'name': 'США'}, {'name': 'Канада'}]"
+tt0268978,https://st.kp.yandex.net/images/film_big/530.jpg,2001,530,movie,"[{'name': 'драма'}, {'name': 'биография'}, {'name': 'мелодрама'}]",[{'name': 'США'}]
+tt0493464,https://st.kp.yandex.net/images/film_big/259876.jpg,2008,259876,movie,"[{'name': 'фантастика'}, {'name': 'боевик'}, {'name': 'триллер'}, {'name': 'криминал'}]","[{'name': 'США'}, {'name': 'Германия'}]"
+tt1488555,https://st.kp.yandex.net/images/film_big/471587.jpg,2011,471587,movie,"[{'name': 'фэнтези'}, {'name': 'мелодрама'}, {'name': 'комедия'}]",[{'name': 'США'}]
+tt0264464,https://st.kp.yandex.net/images/film_big/324.jpg,2002,324,movie,"[{'name': 'криминал'}, {'name': 'биография'}, {'name': 'комедия'}]","[{'name': 'США'}, {'name': 'Канада'}]"
+tt1639405,https://st.kp.yandex.net/images/film_big/451190.jpg,2009,451190,movie,"[{'name': 'боевик'}, {'name': 'драма'}]",[{'name': 'Россия'}]
+tt2262308,https://st.kp.yandex.net/images/film_big/692309.jpg,2012,692309,movie,"[{'name': 'фантастика'}, {'name': 'боевик'}, {'name': 'триллер'}, {'name': 'приключения'}, {'name': 'семейный'}, {'name': 'военный'}]",[{'name': 'США'}]
+tt0813715,https://st.kp.yandex.net/images/film_big/271748.jpg,2006,271748,tv-series,"[{'name': 'фантастика'}, {'name': 'фэнтези'}, {'name': 'триллер'}, {'name': 'драма'}]",[{'name': 'США'}]
+tt1231583,https://st.kp.yandex.net/images/film_big/464282.jpg,2010,464282,movie,[{'name': 'комедия'}],[{'name': 'США'}]
+tt1023111,https://st.kp.yandex.net/images/film_big/311268.jpg,2008,311268,movie,"[{'name': 'боевик'}, {'name': 'спорт'}, {'name': 'драма'}]",[{'name': 'США'}]
+tt1022603,https://st.kp.yandex.net/images/film_big/409372.jpg,2009,409372,movie,"[{'name': 'мелодрама'}, {'name': 'комедия'}]",[{'name': 'США'}]
+tt1074213,https://st.kp.yandex.net/images/film_big/390738.jpg,2008,390738,movie,[{'name': 'мелодрама'}],[{'name': 'Италия'}]
+tt1131729,https://st.kp.yandex.net/images/film_big/416824.jpg,2009,416824,movie,"[{'name': 'драма'}, {'name': 'комедия'}, {'name': 'музыка'}]","[{'name': 'Великобритания'}, {'name': 'Франция'}, {'name': 'Германия'}]"
+tt1570728,https://st.kp.yandex.net/images/film_big/493992.jpg,2011,493992,movie,"[{'name': 'мелодрама'}, {'name': 'комедия'}]",[{'name': 'США'}]
+tt1371111,https://st.kp.yandex.net/images/film_big/464484.jpg,2012,464484,movie,"[{'name': 'фантастика'}, {'name': 'драма'}, {'name': 'боевик'}, {'name': 'детектив'}, {'name': 'приключения'}]","[{'name': 'США'}, {'name': 'Германия'}, {'name': 'Гонконг'}, {'name': 'Сингапур'}]"
+tt1446714,https://st.kp.yandex.net/images/film_big/467099.jpg,2012,467099,movie,"[{'name': 'фантастика'}, {'name': 'ужасы'}]","[{'name': 'США'}, {'name': 'Великобритания'}]"
+tt2085059,https://st.kp.yandex.net/images/film_big/655800.jpg,2011,655800,tv-series,"[{'name': 'фантастика'}, {'name': 'триллер'}, {'name': 'драма'}]","[{'name': 'Великобритания'}, {'name': 'США'}]"
+tt1409024,https://st.kp.yandex.net/images/film_big/455773.jpg,2012,455773,movie,"[{'name': 'фантастика'}, {'name': 'боевик'}, {'name': 'комедия'}, {'name': 'приключения'}]",[{'name': 'США'}]
+tt1074638,https://st.kp.yandex.net/images/film_big/408871.jpg,2012,408871,movie,"[{'name': 'боевик'}, {'name': 'триллер'}, {'name': 'приключения'}]","[{'name': 'Великобритания'}, {'name': 'США'}, {'name': 'Турция'}]"
+tt0948470,https://st.kp.yandex.net/images/film_big/278217.jpg,2012,278217,movie,"[{'name': 'фантастика'}, {'name': 'боевик'}, {'name': 'приключения'}]",[{'name': 'США'}]
+tt1060277,https://st.kp.yandex.net/images/film_big/374718.jpg,2007,374718,movie,"[{'name': 'ужасы'}, {'name': 'фантастика'}, {'name': 'триллер'}, {'name': 'детектив'}]",[{'name': 'США'}]
+tt1637725,https://st.kp.yandex.net/images/film_big/507817.jpg,2012,507817,movie,[{'name': 'комедия'}],[{'name': 'США'}]
+tt1797504,https://st.kp.yandex.net/images/film_big/603616.jpg,2012,603616,movie,"[{'name': 'драма'}, {'name': 'мелодрама'}]",[{'name': 'Испания'}]
+tt0356150,https://st.kp.yandex.net/images/film_big/5090.jpg,2004,5090,movie,[{'name': 'комедия'}],[{'name': 'США'}]
+tt1135985,https://st.kp.yandex.net/images/film_big/398624.jpg,2008,398624,movie,"[{'name': 'мелодрама'}, {'name': 'комедия'}]",[{'name': 'США'}]
+tt1648216,https://st.kp.yandex.net/images/film_big/523362.jpg,2010,523362,movie,"[{'name': 'драма'}, {'name': 'мелодрама'}]",[{'name': 'Испания'}]
+tt0417741,https://st.kp.yandex.net/images/film_big/89515.jpg,2009,89515,movie,"[{'name': 'фэнтези'}, {'name': 'приключения'}, {'name': 'семейный'}]","[{'name': 'Великобритания'}, {'name': 'США'}]"
+tt1515091,https://st.kp.yandex.net/images/film_big/474953.jpg,2011,474953,movie,"[{'name': 'боевик'}, {'name': 'приключения'}, {'name': 'триллер'}, {'name': 'криминал'}, {'name': 'детектив'}]","[{'name': 'США'}, {'name': 'Великобритания'}]"
+tt1636826,https://st.kp.yandex.net/images/film_big/507440.jpg,2012,507440,movie,[{'name': 'комедия'}],[{'name': 'США'}]
+tt1675434,https://st.kp.yandex.net/images/film_big/535341.jpg,2011,535341,movie,"[{'name': 'драма'}, {'name': 'комедия'}, {'name': 'биография'}]",[{'name': 'Франция'}]
+tt1396218,https://st.kp.yandex.net/images/film_big/463577.jpg,2011,463577,movie,"[{'name': 'фэнтези'}, {'name': 'комедия'}, {'name': 'семейный'}]",[{'name': 'США'}]
+tt0180093,https://st.kp.yandex.net/images/film_big/367.jpg,2000,367,movie,[{'name': 'драма'}],[{'name': 'США'}]
+tt0848228,https://st.kp.yandex.net/images/film_big/263531.jpg,2012,263531,movie,"[{'name': 'фантастика'}, {'name': 'боевик'}, {'name': 'фэнтези'}, {'name': 'приключения'}]",[{'name': 'США'}]
+,https://st.kp.yandex.net/images/film_big/507169.jpg,2010,507169,movie,"[{'name': 'фантастика'}, {'name': 'драма'}, {'name': 'военный'}]",[{'name': 'Россия'}]
+tt1045772,https://st.kp.yandex.net/images/film_big/402550.jpg,2008,402550,movie,"[{'name': 'драма'}, {'name': 'мелодрама'}, {'name': 'комедия'}, {'name': 'криминал'}, {'name': 'биография'}]","[{'name': 'Франция'}, {'name': 'США'}]"
+tt2141789,https://st.kp.yandex.net/images/film_big/406175.jpg,2011,406175,cartoon,"[{'name': 'мультфильм'}, {'name': 'фэнтези'}, {'name': 'комедия'}, {'name': 'приключения'}, {'name': 'семейный'}]",[{'name': 'Россия'}]
+tt0972558,https://st.kp.yandex.net/images/film_big/257774.jpg,2008,257774,movie,"[{'name': 'фантастика'}, {'name': 'боевик'}]",[{'name': 'Россия'}]
+tt1340800,https://st.kp.yandex.net/images/film_big/462548.jpg,2011,462548,movie,"[{'name': 'триллер'}, {'name': 'детектив'}]","[{'name': 'Великобритания'}, {'name': 'Франция'}, {'name': 'Германия'}]"
+tt2094767,https://st.kp.yandex.net/images/film_big/565158.jpg,2012,565158,movie,"[{'name': 'драма'}, {'name': 'военный'}]",[{'name': 'Россия'}]
+tt1568346,https://st.kp.yandex.net/images/film_big/491724.jpg,2011,491724,movie,"[{'name': 'детектив'}, {'name': 'триллер'}, {'name': 'драма'}, {'name': 'криминал'}]","[{'name': 'США'}, {'name': 'Швеция'}, {'name': 'Норвегия'}]"
+tt0337978,https://st.kp.yandex.net/images/film_big/9544.jpg,2007,9544,movie,"[{'name': 'боевик'}, {'name': 'триллер'}]","[{'name': 'США'}, {'name': 'Великобритания'}]"
+tt0472399,https://st.kp.yandex.net/images/film_big/195615.jpg,2010,195615,movie,"[{'name': 'боевик'}, {'name': 'триллер'}, {'name': 'криминал'}]",[{'name': 'США'}]
+tt1278449,https://st.kp.yandex.net/images/film_big/428134.jpg,2010,428134,movie,"[{'name': 'музыка'}, {'name': 'мелодрама'}, {'name': 'комедия'}, {'name': 'криминал'}]","[{'name': 'Швеция'}, {'name': 'Франция'}, {'name': 'Дания'}]"
+tt1600195,https://st.kp.yandex.net/images/film_big/501293.jpg,2011,501293,movie,"[{'name': 'боевик'}, {'name': 'триллер'}, {'name': 'детектив'}]",[{'name': 'США'}]
+tt1424381,https://st.kp.yandex.net/images/film_big/460523.jpg,2010,460523,movie,"[{'name': 'фантастика'}, {'name': 'боевик'}, {'name': 'триллер'}, {'name': 'приключения'}]",[{'name': 'США'}]
+tt0253474,https://st.kp.yandex.net/images/film_big/355.jpg,2002,355,movie,"[{'name': 'драма'}, {'name': 'военный'}, {'name': 'биография'}, {'name': 'музыка'}]","[{'name': 'Франция'}, {'name': 'Польша'}, {'name': 'Великобритания'}, {'name': 'Германия'}]"
+tt2124096,https://st.kp.yandex.net/images/film_big/573817.jpg,2011,573817,movie,"[{'name': 'мелодрама'}, {'name': 'комедия'}, {'name': 'семейный'}]",[{'name': 'Россия'}]
+tt0443649,https://st.kp.yandex.net/images/film_big/102611.jpg,2008,102611,movie,"[{'name': 'фэнтези'}, {'name': 'боевик'}, {'name': 'драма'}, {'name': 'приключения'}, {'name': 'история'}]","[{'name': 'США'}, {'name': 'ЮАР'}]"
+tt0433035,https://st.kp.yandex.net/images/film_big/88198.jpg,2011,88198,movie,"[{'name': 'фантастика'}, {'name': 'боевик'}, {'name': 'семейный'}]","[{'name': 'США'}, {'name': 'Индия'}]"
+tt1634122,https://st.kp.yandex.net/images/film_big/507676.jpg,2011,507676,movie,"[{'name': 'комедия'}, {'name': 'боевик'}, {'name': 'приключения'}]","[{'name': 'Великобритания'}, {'name': 'Франция'}, {'name': 'США'}]"
+tt0942385,https://st.kp.yandex.net/images/film_big/278208.jpg,2008,278208,movie,"[{'name': 'боевик'}, {'name': 'комедия'}, {'name': 'военный'}]","[{'name': 'США'}, {'name': 'Великобритания'}, {'name': 'Германия'}]"
+tt0295721,https://st.kp.yandex.net/images/film_big/14339.jpg,2003,14339,movie,"[{'name': 'боевик'}, {'name': 'комедия'}, {'name': 'криминал'}]",[{'name': 'Франция'}]
+tt0183869,https://st.kp.yandex.net/images/film_big/854.jpg,2000,854,movie,"[{'name': 'боевик'}, {'name': 'комедия'}, {'name': 'криминал'}]",[{'name': 'Франция'}]
+tt0152930,https://st.kp.yandex.net/images/film_big/14349.jpg,1998,14349,movie,"[{'name': 'боевик'}, {'name': 'комедия'}, {'name': 'криминал'}]",[{'name': 'Франция'}]
+tt1622979,https://st.kp.yandex.net/images/film_big/506349.jpg,2011,506349,movie,"[{'name': 'ужасы'}, {'name': 'боевик'}, {'name': 'триллер'}]","[{'name': 'США'}, {'name': 'Канада'}]"
+tt1013743,https://st.kp.yandex.net/images/film_big/455188.jpg,2010,455188,movie,"[{'name': 'боевик'}, {'name': 'мелодрама'}, {'name': 'комедия'}, {'name': 'приключения'}]",[{'name': 'США'}]
+tt1666186,https://st.kp.yandex.net/images/film_big/522094.jpg,2010,522094,movie,"[{'name': 'ужасы'}, {'name': 'комедия'}]",[{'name': 'США'}]
+tt1210166,https://st.kp.yandex.net/images/film_big/432791.jpg,2011,432791,movie,"[{'name': 'биография'}, {'name': 'спорт'}, {'name': 'драма'}]",[{'name': 'США'}]
+tt0397306,https://st.kp.yandex.net/images/film_big/258054.jpg,2005,258054,animated-series,"[{'name': 'мультфильм'}, {'name': 'комедия'}]",[{'name': 'США'}]
+tt0121955,https://st.kp.yandex.net/images/film_big/161252.jpg,1997,161252,animated-series,"[{'name': 'мультфильм'}, {'name': 'комедия'}]",[{'name': 'США'}]
+tt0409847,https://st.kp.yandex.net/images/film_big/81961.jpg,2011,81961,movie,"[{'name': 'фантастика'}, {'name': 'боевик'}, {'name': 'триллер'}, {'name': 'вестерн'}]","[{'name': 'США'}, {'name': 'Индия'}]"
+tt0822847,https://st.kp.yandex.net/images/film_big/258759.jpg,2011,258759,movie,"[{'name': 'ужасы'}, {'name': 'фантастика'}, {'name': 'фэнтези'}, {'name': 'боевик'}, {'name': 'триллер'}, {'name': 'приключения'}]",[{'name': 'США'}]
+tt0415481,https://st.kp.yandex.net/images/film_big/81041.jpg,2004,81041,cartoon,"[{'name': 'мультфильм'}, {'name': 'комедия'}, {'name': 'приключения'}, {'name': 'мюзикл'}, {'name': 'фэнтези'}, {'name': 'мелодрама'}, {'name': 'семейный'}]",[{'name': 'Россия'}]
+tt1650062,https://st.kp.yandex.net/images/film_big/517433.jpg,2011,517433,movie,"[{'name': 'фантастика'}, {'name': 'триллер'}, {'name': 'детектив'}]",[{'name': 'США'}]
+,https://st.kp.yandex.net/images/film_big/84674.jpg,2005,84674,movie,"[{'name': 'боевик'}, {'name': 'драма'}, {'name': 'военный'}, {'name': 'история'}]","[{'name': 'Россия'}, {'name': 'Украина'}, {'name': 'Финляндия'}]"
+,https://st.kp.yandex.net/images/film_big/321845.jpg,2009,321845,movie,"[{'name': 'боевик'}, {'name': 'драма'}, {'name': 'история'}]",[{'name': 'Россия'}]
+tt1201607,https://st.kp.yandex.net/images/film_big/407636.jpg,2011,407636,movie,"[{'name': 'фэнтези'}, {'name': 'детектив'}, {'name': 'приключения'}, {'name': 'семейный'}]","[{'name': 'Великобритания'}, {'name': 'США'}]"
+tt1284575,https://st.kp.yandex.net/images/film_big/465673.jpg,2011,465673,movie,"[{'name': 'мелодрама'}, {'name': 'комедия'}]",[{'name': 'США'}]
+tt1285016,https://st.kp.yandex.net/images/film_big/427198.jpg,2010,427198,movie,"[{'name': 'драма'}, {'name': 'биография'}]",[{'name': 'США'}]
+tt1486185,https://st.kp.yandex.net/images/film_big/470179.jpg,2011,470179,movie,"[{'name': 'ужасы'}, {'name': 'фэнтези'}, {'name': 'триллер'}, {'name': 'мелодрама'}, {'name': 'детектив'}]","[{'name': 'США'}, {'name': 'Канада'}]"
+tt1637688,https://st.kp.yandex.net/images/film_big/517988.jpg,2011,517988,movie,"[{'name': 'фантастика'}, {'name': 'мелодрама'}, {'name': 'боевик'}]",[{'name': 'США'}]
+tt0808151,https://st.kp.yandex.net/images/film_big/257401.jpg,2009,257401,movie,"[{'name': 'боевик'}, {'name': 'триллер'}, {'name': 'детектив'}]","[{'name': 'США'}, {'name': 'Италия'}]"
+tt0988045,https://st.kp.yandex.net/images/film_big/420923.jpg,2009,420923,movie,"[{'name': 'боевик'}, {'name': 'приключения'}, {'name': 'триллер'}, {'name': 'драма'}, {'name': 'комедия'}, {'name': 'криминал'}, {'name': 'детектив'}]","[{'name': 'США'}, {'name': 'Германия'}, {'name': 'Великобритания'}, {'name': 'Австралия'}]"
+tt0382625,https://st.kp.yandex.net/images/film_big/77711.jpg,2006,77711,movie,"[{'name': 'триллер'}, {'name': 'детектив'}]","[{'name': 'США'}, {'name': 'Мальта'}, {'name': 'Франция'}, {'name': 'Великобритания'}]"
+tt0458339,https://st.kp.yandex.net/images/film_big/160946.jpg,2011,160946,movie,"[{'name': 'фантастика'}, {'name': 'боевик'}, {'name': 'приключения'}, {'name': 'военный'}]",[{'name': 'США'}]
+tt1099212,https://st.kp.yandex.net/images/film_big/401177.jpg,2008,401177,movie,"[{'name': 'фэнтези'}, {'name': 'драма'}, {'name': 'мелодрама'}]",[{'name': 'США'}]
+tt0284492,https://st.kp.yandex.net/images/film_big/41109.jpg,2001,41109,movie,"[{'name': 'драма'}, {'name': 'криминал'}]",[{'name': 'Россия'}]
+tt0360717,https://st.kp.yandex.net/images/film_big/5908.jpg,2005,5908,movie,"[{'name': 'боевик'}, {'name': 'драма'}, {'name': 'мелодрама'}, {'name': 'приключения'}, {'name': 'фэнтези'}]","[{'name': 'США'}, {'name': 'Новая Зеландия'}, {'name': 'Германия'}]"
+tt1318514,https://st.kp.yandex.net/images/film_big/463738.jpg,2011,463738,movie,"[{'name': 'фантастика'}, {'name': 'боевик'}, {'name': 'триллер'}, {'name': 'драма'}]",[{'name': 'США'}]
+tt1647423,https://st.kp.yandex.net/images/film_big/501998.jpg,2010,501998,tv-series,[{'name': 'комедия'}],[{'name': 'Россия'}]
+tt0367594,https://st.kp.yandex.net/images/film_big/38905.jpg,2005,38905,movie,"[{'name': 'мюзикл'}, {'name': 'фэнтези'}, {'name': 'комедия'}, {'name': 'приключения'}, {'name': 'семейный'}]",[{'name': 'США'}]
+tt0383574,https://st.kp.yandex.net/images/film_big/63991.jpg,2006,63991,movie,"[{'name': 'фэнтези'}, {'name': 'боевик'}, {'name': 'приключения'}]",[{'name': 'США'}]
+tt0449088,https://st.kp.yandex.net/images/film_big/102124.jpg,2007,102124,movie,"[{'name': 'приключения'}, {'name': 'боевик'}, {'name': 'фэнтези'}]",[{'name': 'США'}]
+tt0361748,https://st.kp.yandex.net/images/film_big/9691.jpg,2009,9691,movie,"[{'name': 'боевик'}, {'name': 'драма'}, {'name': 'комедия'}, {'name': 'военный'}]","[{'name': 'Германия'}, {'name': 'США'}]"
+tt1411697,https://st.kp.yandex.net/images/film_big/455338.jpg,2011,455338,movie,[{'name': 'комедия'}],[{'name': 'США'}]
+tt0448694,https://st.kp.yandex.net/images/film_big/102146.jpg,2011,102146,cartoon,"[{'name': 'мультфильм'}, {'name': 'фэнтези'}, {'name': 'комедия'}, {'name': 'приключения'}, {'name': 'семейный'}]",[{'name': 'США'}]
+tt1596343,https://st.kp.yandex.net/images/film_big/496943.jpg,2011,496943,movie,"[{'name': 'боевик'}, {'name': 'триллер'}, {'name': 'криминал'}]",[{'name': 'США'}]
+tt1133985,https://st.kp.yandex.net/images/film_big/406294.jpg,2011,406294,movie,"[{'name': 'фантастика'}, {'name': 'боевик'}, {'name': 'приключения'}]",[{'name': 'США'}]
+tt0398913,https://st.kp.yandex.net/images/film_big/81885.jpg,2006,81885,movie,"[{'name': 'боевик'}, {'name': 'детектив'}, {'name': 'приключения'}]","[{'name': 'США'}, {'name': 'Германия'}]"
+tt0800369,https://st.kp.yandex.net/images/film_big/258941.jpg,2011,258941,movie,"[{'name': 'фантастика'}, {'name': 'боевик'}, {'name': 'фэнтези'}, {'name': 'приключения'}]",[{'name': 'США'}]
+tt1205489,https://st.kp.yandex.net/images/film_big/408410.jpg,2008,408410,movie,[{'name': 'драма'}],"[{'name': 'США'}, {'name': 'Германия'}]"
+tt0808339,https://st.kp.yandex.net/images/film_big/274730.jpg,2008,274730,movie,"[{'name': 'боевик'}, {'name': 'триллер'}]","[{'name': 'Франция'}, {'name': 'Бельгия'}, {'name': 'Гонконг'}]"
+tt0448157,https://st.kp.yandex.net/images/film_big/102151.jpg,2008,102151,movie,"[{'name': 'фантастика'}, {'name': 'боевик'}, {'name': 'драма'}, {'name': 'комедия'}]",[{'name': 'США'}]
+tt1542344,https://st.kp.yandex.net/images/film_big/484878.jpg,2010,484878,movie,"[{'name': 'триллер'}, {'name': 'биография'}, {'name': 'драма'}, {'name': 'приключения'}]","[{'name': 'Великобритания'}, {'name': 'США'}, {'name': 'Франция'}]"
+tt1010048,https://st.kp.yandex.net/images/film_big/413362.jpg,2008,413362,movie,"[{'name': 'криминал'}, {'name': 'драма'}, {'name': 'мелодрама'}]","[{'name': 'Великобритания'}, {'name': 'США'}]"
+tt1131734,https://st.kp.yandex.net/images/film_big/404510.jpg,2009,404510,movie,"[{'name': 'ужасы'}, {'name': 'комедия'}]",[{'name': 'США'}]
+tt0211915,https://st.kp.yandex.net/images/film_big/341.jpg,2001,341,movie,"[{'name': 'мелодрама'}, {'name': 'комедия'}]","[{'name': 'Франция'}, {'name': 'Германия'}]"
+tt0830515,https://st.kp.yandex.net/images/film_big/258475.jpg,2008,258475,movie,"[{'name': 'боевик'}, {'name': 'триллер'}, {'name': 'приключения'}]","[{'name': 'Великобритания'}, {'name': 'США'}]"
+tt0381061,https://st.kp.yandex.net/images/film_big/49844.jpg,2006,49844,movie,"[{'name': 'боевик'}, {'name': 'триллер'}, {'name': 'приключения'}]","[{'name': 'Великобритания'}, {'name': 'Чехия'}, {'name': 'США'}, {'name': 'Германия'}, {'name': 'Багамы'}]"
+tt1427175,https://st.kp.yandex.net/images/film_big/460589.jpg,2008,460589,tv-series,"[{'name': 'новости'}, {'name': 'ток-шоу'}, {'name': 'комедия'}]",[{'name': 'Россия'}]
+tt1197624,https://st.kp.yandex.net/images/film_big/406408.jpg,2009,406408,movie,"[{'name': 'боевик'}, {'name': 'триллер'}, {'name': 'драма'}, {'name': 'криминал'}]",[{'name': 'США'}]
+tt0120382,https://st.kp.yandex.net/images/film_big/4541.jpg,1998,4541,movie,"[{'name': 'драма'}, {'name': 'комедия'}]",[{'name': 'США'}]
+tt1504320,https://st.kp.yandex.net/images/film_big/485311.jpg,2010,485311,movie,"[{'name': 'драма'}, {'name': 'биография'}, {'name': 'история'}]","[{'name': 'Великобритания'}, {'name': 'США'}]"
+tt1227189,https://st.kp.yandex.net/images/film_big/412248.jpg,2008,412248,movie,[{'name': 'драма'}],[{'name': 'Россия'}]
+tt1585899,https://st.kp.yandex.net/images/film_big/493098.jpg,2010,493098,tv-series,[{'name': 'драма'}],[{'name': 'Россия'}]
+tt0434409,https://st.kp.yandex.net/images/film_big/86208.jpg,2006,86208,movie,"[{'name': 'фантастика'}, {'name': 'боевик'}, {'name': 'триллер'}, {'name': 'драма'}]","[{'name': 'Великобритания'}, {'name': 'Германия'}]"
+tt0800080,https://st.kp.yandex.net/images/film_big/255380.jpg,2008,255380,movie,"[{'name': 'фантастика'}, {'name': 'боевик'}, {'name': 'триллер'}]",[{'name': 'США'}]
+tt0266489,https://st.kp.yandex.net/images/film_big/1796.jpg,2003,1796,movie,[{'name': 'комедия'}],"[{'name': 'США'}, {'name': 'Германия'}]"
+tt0317219,https://st.kp.yandex.net/images/film_big/61249.jpg,2006,61249,cartoon,"[{'name': 'мультфильм'}, {'name': 'комедия'}, {'name': 'приключения'}, {'name': 'семейный'}, {'name': 'спорт'}]",[{'name': 'США'}]
+tt0435761,https://st.kp.yandex.net/images/film_big/258328.jpg,2010,258328,cartoon,"[{'name': 'мультфильм'}, {'name': 'фэнтези'}, {'name': 'комедия'}, {'name': 'приключения'}, {'name': 'семейный'}]",[{'name': 'США'}]
+tt0120338,https://st.kp.yandex.net/images/film_big/2213.jpg,1997,2213,movie,"[{'name': 'мелодрама'}, {'name': 'история'}, {'name': 'триллер'}, {'name': 'драма'}]","[{'name': 'США'}, {'name': 'Мексика'}]"
+tt0421715,https://st.kp.yandex.net/images/film_big/81555.jpg,2008,81555,movie,"[{'name': 'драма'}, {'name': 'фэнтези'}]",[{'name': 'США'}]
+tt1116184,https://st.kp.yandex.net/images/film_big/402626.jpg,2010,402626,movie,"[{'name': 'документальный'}, {'name': 'комедия'}]",[{'name': 'США'}]
+tt0489099,https://st.kp.yandex.net/images/film_big/220589.jpg,2008,220589,movie,"[{'name': 'фантастика'}, {'name': 'боевик'}, {'name': 'приключения'}]","[{'name': 'США'}, {'name': 'Канада'}]"
+tt0279600,https://st.kp.yandex.net/images/film_big/86193.jpg,2001,86193,tv-series,"[{'name': 'фантастика'}, {'name': 'драма'}, {'name': 'мелодрама'}, {'name': 'приключения'}]","[{'name': 'США'}, {'name': 'Канада'}]"
+tt0411008,https://st.kp.yandex.net/images/film_big/104122.jpg,2004,104122,tv-series,"[{'name': 'фантастика'}, {'name': 'детектив'}, {'name': 'фэнтези'}, {'name': 'триллер'}, {'name': 'драма'}, {'name': 'приключения'}]",[{'name': 'США'}]
+tt0383126,https://st.kp.yandex.net/images/film_big/445124.jpg,2003,445124,tv-series,"[{'name': 'документальный'}, {'name': 'реальное ТВ'}, {'name': 'детектив'}]",[{'name': 'США'}]
+tt4545498,https://st.kp.yandex.net/images/film_big/471460.jpg,2008,471460,movie,"[{'name': 'короткометражка'}, {'name': 'драма'}, {'name': 'мелодрама'}]",[{'name': 'Россия'}]
+tt0420982,https://st.kp.yandex.net/images/film_big/84830.jpg,2005,84830,movie,"[{'name': 'комедия'}, {'name': 'криминал'}]",[{'name': 'Россия'}]
+tt0381936,https://st.kp.yandex.net/images/film_big/57166.jpg,2003,57166,movie,"[{'name': 'драма'}, {'name': 'криминал'}]",[{'name': 'Россия'}]
+tt0259324,https://st.kp.yandex.net/images/film_big/3948.jpg,2007,3948,movie,"[{'name': 'фэнтези'}, {'name': 'боевик'}, {'name': 'триллер'}]","[{'name': 'США'}, {'name': 'Австралия'}]"
+tt0985694,https://st.kp.yandex.net/images/film_big/467553.jpg,2010,467553,movie,"[{'name': 'боевик'}, {'name': 'триллер'}, {'name': 'комедия'}, {'name': 'криминал'}]",[{'name': 'США'}]
+tt0109686,https://st.kp.yandex.net/images/film_big/5185.jpg,1994,5185,movie,[{'name': 'комедия'}],[{'name': 'США'}]
+tt1323594,https://st.kp.yandex.net/images/film_big/432724.jpg,2010,432724,cartoon,"[{'name': 'мультфильм'}, {'name': 'фантастика'}, {'name': 'комедия'}, {'name': 'криминал'}, {'name': 'приключения'}, {'name': 'семейный'}]","[{'name': 'США'}, {'name': 'Франция'}, {'name': 'Япония'}]"
+tt0338526,https://st.kp.yandex.net/images/film_big/3491.jpg,2004,3491,movie,"[{'name': 'фэнтези'}, {'name': 'боевик'}, {'name': 'триллер'}, {'name': 'приключения'}]","[{'name': 'США'}, {'name': 'Чехия'}, {'name': 'Румыния'}]"
+tt1038686,https://st.kp.yandex.net/images/film_big/426002.jpg,2010,426002,movie,"[{'name': 'ужасы'}, {'name': 'фэнтези'}, {'name': 'боевик'}]",[{'name': 'США'}]
+tt1092026,https://st.kp.yandex.net/images/film_big/427855.jpg,2011,427855,movie,"[{'name': 'фантастика'}, {'name': 'комедия'}, {'name': 'приключения'}]","[{'name': 'Великобритания'}, {'name': 'США'}]"
+tt0454848,https://st.kp.yandex.net/images/film_big/103785.jpg,2006,103785,movie,"[{'name': 'триллер'}, {'name': 'драма'}, {'name': 'криминал'}, {'name': 'детектив'}]",[{'name': 'США'}]
+tt1462758,https://st.kp.yandex.net/images/film_big/470656.jpg,2010,470656,movie,"[{'name': 'триллер'}, {'name': 'драма'}, {'name': 'детектив'}]","[{'name': 'Испания'}, {'name': 'Великобритания'}, {'name': 'Франция'}, {'name': 'США'}]"
+tt1239426,https://st.kp.yandex.net/images/film_big/395690.jpg,2008,395690,movie,"[{'name': 'мюзикл'}, {'name': 'драма'}, {'name': 'мелодрама'}, {'name': 'комедия'}]",[{'name': 'Россия'}]
+tt0195714,https://st.kp.yandex.net/images/film_big/668.jpg,2000,668,movie,"[{'name': 'ужасы'}, {'name': 'фантастика'}, {'name': 'триллер'}, {'name': 'детектив'}]",[{'name': 'США'}]
+tt0309593,https://st.kp.yandex.net/images/film_big/669.jpg,2003,669,movie,"[{'name': 'ужасы'}, {'name': 'триллер'}]","[{'name': 'США'}, {'name': 'Канада'}]"
+tt0414982,https://st.kp.yandex.net/images/film_big/89674.jpg,2006,89674,movie,"[{'name': 'ужасы'}, {'name': 'триллер'}, {'name': 'детектив'}]",[{'name': 'США'}]
+tt1144884,https://st.kp.yandex.net/images/film_big/405753.jpg,2009,405753,movie,"[{'name': 'ужасы'}, {'name': 'боевик'}, {'name': 'триллер'}]",[{'name': 'США'}]
+tt1270798,https://st.kp.yandex.net/images/film_big/462358.jpg,2011,462358,movie,"[{'name': 'фантастика'}, {'name': 'боевик'}, {'name': 'приключения'}]","[{'name': 'США'}, {'name': 'Великобритания'}]"
+tt0110413,https://st.kp.yandex.net/images/film_big/389.jpg,1994,389,movie,"[{'name': 'боевик'}, {'name': 'триллер'}, {'name': 'драма'}, {'name': 'криминал'}]","[{'name': 'Франция'}, {'name': 'США'}]"
+tt0910970,https://st.kp.yandex.net/images/film_big/279102.jpg,2008,279102,cartoon,"[{'name': 'мультфильм'}, {'name': 'фантастика'}, {'name': 'приключения'}, {'name': 'семейный'}]",[{'name': 'США'}]
+tt0402874,https://st.kp.yandex.net/images/film_big/79883.jpg,2006,79883,movie,"[{'name': 'драма'}, {'name': 'криминал'}]",[{'name': 'Россия'}]
+tt0238883,https://st.kp.yandex.net/images/film_big/41520.jpg,2000,41520,movie,"[{'name': 'боевик'}, {'name': 'криминал'}]","[{'name': 'Россия'}, {'name': 'США'}]"
+tt0118767,https://st.kp.yandex.net/images/film_big/41519.jpg,1997,41519,movie,"[{'name': 'драма'}, {'name': 'криминал'}, {'name': 'боевик'}]",[{'name': 'Россия'}]
+tt0120586,https://st.kp.yandex.net/images/film_big/382.jpg,1998,382,movie,[{'name': 'драма'}],[{'name': 'США'}]
+tt0137523,https://st.kp.yandex.net/images/film_big/361.jpg,1999,361,movie,"[{'name': 'триллер'}, {'name': 'драма'}, {'name': 'криминал'}]","[{'name': 'США'}, {'name': 'Германия'}]"
+tt0109830,https://st.kp.yandex.net/images/film_big/448.jpg,1994,448,movie,"[{'name': 'драма'}, {'name': 'комедия'}, {'name': 'мелодрама'}, {'name': 'история'}, {'name': 'военный'}]",[{'name': 'США'}]
+tt0120689,https://st.kp.yandex.net/images/film_big/435.jpg,1999,435,movie,"[{'name': 'драма'}, {'name': 'криминал'}]",[{'name': 'США'}]
+tt1320253,https://st.kp.yandex.net/images/film_big/432550.jpg,2010,432550,movie,"[{'name': 'боевик'}, {'name': 'приключения'}, {'name': 'триллер'}]","[{'name': 'США'}, {'name': 'Болгария'}, {'name': 'Испания'}, {'name': 'Германия'}]"
+tt4643442,https://st.kp.yandex.net/images/film_big/452765.jpg,2009,452765,tv-series,[{'name': 'комедия'}],[{'name': 'Россия'}]
+tt1202543,https://st.kp.yandex.net/images/film_big/412173.jpg,2006,412173,tv-series,[{'name': 'комедия'}],[{'name': 'Россия'}]
+tt6085558,https://st.kp.yandex.net/images/film_big/460576.jpg,2008,460576,tv-series,"[{'name': 'ток-шоу'}, {'name': 'комедия'}]",[{'name': 'Россия'}]
+tt5188404,https://st.kp.yandex.net/images/film_big/471505.jpg,2005,471505,tv-series,[{'name': 'комедия'}],[{'name': 'Россия'}]
+tt0470013,https://st.kp.yandex.net/images/film_big/405644.jpg,1961,405644,tv-series,"[{'name': 'комедия'}, {'name': 'игра'}]",[{'name': 'СССР'}]
+tt1838432,https://st.kp.yandex.net/images/film_big/469787.jpg,2009,469787,movie,"[{'name': 'короткометражка'}, {'name': 'комедия'}]",[{'name': 'Россия'}]
+tt0800320,https://st.kp.yandex.net/images/film_big/260999.jpg,2010,260999,movie,"[{'name': 'фэнтези'}, {'name': 'боевик'}, {'name': 'приключения'}]","[{'name': 'США'}, {'name': 'Великобритания'}, {'name': 'Австралия'}]"
+,https://st.kp.yandex.net/images/film_big/81924.jpg,2007,81924,movie,"[{'name': 'боевик'}, {'name': 'драма'}]","[{'name': 'США'}, {'name': 'Канада'}, {'name': 'Болгария'}, {'name': 'Австралия'}]"
+tt0401792,https://st.kp.yandex.net/images/film_big/77443.jpg,2005,77443,movie,"[{'name': 'боевик'}, {'name': 'триллер'}, {'name': 'криминал'}, {'name': 'детектив'}]",[{'name': 'США'}]
+tt1046173,https://st.kp.yandex.net/images/film_big/397496.jpg,2009,397496,movie,"[{'name': 'фантастика'}, {'name': 'боевик'}, {'name': 'триллер'}, {'name': 'приключения'}]",[{'name': 'США'}]
+tt0371746,https://st.kp.yandex.net/images/film_big/61237.jpg,2008,61237,movie,"[{'name': 'фантастика'}, {'name': 'боевик'}, {'name': 'приключения'}]","[{'name': 'США'}, {'name': 'Канада'}]"
+tt0438488,https://st.kp.yandex.net/images/film_big/160932.jpg,2009,160932,movie,"[{'name': 'фантастика'}, {'name': 'боевик'}]","[{'name': 'США'}, {'name': 'Германия'}, {'name': 'Великобритания'}, {'name': 'Италия'}]"
+tt1055369,https://st.kp.yandex.net/images/film_big/373391.jpg,2009,373391,movie,"[{'name': 'фантастика'}, {'name': 'боевик'}, {'name': 'приключения'}]",[{'name': 'США'}]
+tt1228705,https://st.kp.yandex.net/images/film_big/411924.jpg,2010,411924,movie,"[{'name': 'фантастика'}, {'name': 'боевик'}, {'name': 'приключения'}]",[{'name': 'США'}]
+tt0468569,https://st.kp.yandex.net/images/film_big/111543.jpg,2008,111543,movie,"[{'name': 'фантастика'}, {'name': 'боевик'}, {'name': 'триллер'}, {'name': 'криминал'}, {'name': 'драма'}]","[{'name': 'США'}, {'name': 'Великобритания'}]"
+tt0458525,https://st.kp.yandex.net/images/film_big/104904.jpg,2009,104904,movie,"[{'name': 'фантастика'}, {'name': 'боевик'}]","[{'name': 'США'}, {'name': 'Великобритания'}]"
+tt0418279,https://st.kp.yandex.net/images/film_big/81288.jpg,2007,81288,movie,"[{'name': 'фантастика'}, {'name': 'боевик'}]",[{'name': 'США'}]
+,https://st.kp.yandex.net/images/film_big/468551.jpg,2010,468551,movie,"[{'name': 'боевик'}, {'name': 'триллер'}, {'name': 'драма'}, {'name': 'приключения'}]","[{'name': 'США'}, {'name': 'Великобритания'}, {'name': 'Германия'}]"
+tt0985699,https://st.kp.yandex.net/images/film_big/309475.jpg,2008,309475,movie,"[{'name': 'триллер'}, {'name': 'драма'}, {'name': 'военный'}, {'name': 'история'}]","[{'name': 'США'}, {'name': 'Германия'}, {'name': 'Италия'}, {'name': 'Испания'}, {'name': 'Франция'}, {'name': 'Япония'}, {'name': 'Великобритания'}]"
+tt0443543,https://st.kp.yandex.net/images/film_big/102198.jpg,2005,102198,movie,"[{'name': 'драма'}, {'name': 'фэнтези'}, {'name': 'триллер'}, {'name': 'мелодрама'}, {'name': 'детектив'}]","[{'name': 'США'}, {'name': 'Чехия'}]"
+tt1075747,https://st.kp.yandex.net/images/film_big/418761.jpg,2010,418761,movie,"[{'name': 'фэнтези'}, {'name': 'боевик'}, {'name': 'триллер'}, {'name': 'драма'}, {'name': 'вестерн'}]",[{'name': 'США'}]
+tt1375666,https://st.kp.yandex.net/images/film_big/447301.jpg,2010,447301,movie,"[{'name': 'фантастика'}, {'name': 'боевик'}, {'name': 'триллер'}, {'name': 'драма'}, {'name': 'детектив'}]","[{'name': 'США'}, {'name': 'Великобритания'}]"
+tt0435705,https://st.kp.yandex.net/images/film_big/87789.jpg,2007,87789,movie,"[{'name': 'фантастика'}, {'name': 'боевик'}, {'name': 'триллер'}]",[{'name': 'США'}]
+tt0119472,https://st.kp.yandex.net/images/film_big/32898.jpg,1997,32898,movie,"[{'name': 'драма'}, {'name': 'комедия'}, {'name': 'криминал'}]",[{'name': 'Германия'}]
+tt1343755,https://st.kp.yandex.net/images/film_big/437555.jpg,2009,437555,movie,"[{'name': 'мелодрама'}, {'name': 'комедия'}]",[{'name': 'Германия'}]
+tt1782568,https://st.kp.yandex.net/images/film_big/493768.jpg,2010,493768,movie,[{'name': 'комедия'}],[{'name': 'Россия'}]
+tt1073498,https://st.kp.yandex.net/images/film_big/391766.jpg,2008,391766,movie,[{'name': 'комедия'}],[{'name': 'США'}]
+tt1477014,https://st.kp.yandex.net/images/film_big/432394.jpg,2009,432394,movie,[{'name': 'комедия'}],[{'name': 'Россия'}]
+tt1364289,https://st.kp.yandex.net/images/film_big/416089.jpg,2009,416089,movie,[{'name': 'комедия'}],[{'name': 'Россия'}]
+tt1179067,https://st.kp.yandex.net/images/film_big/277385.jpg,2007,277385,movie,[{'name': 'комедия'}],[{'name': 'Россия'}]
+tt0426592,https://st.kp.yandex.net/images/film_big/195941.jpg,2008,195941,movie,"[{'name': 'фантастика'}, {'name': 'боевик'}, {'name': 'комедия'}]",[{'name': 'США'}]
+tt1213644,https://st.kp.yandex.net/images/film_big/409880.jpg,2008,409880,movie,"[{'name': 'фантастика'}, {'name': 'комедия'}]",[{'name': 'США'}]
+tt1320261,https://st.kp.yandex.net/images/film_big/432723.jpg,2010,432723,movie,"[{'name': 'фэнтези'}, {'name': 'комедия'}, {'name': 'приключения'}, {'name': 'семейный'}]",[{'name': 'США'}]
+tt1190080,https://st.kp.yandex.net/images/film_big/413447.jpg,2009,413447,movie,"[{'name': 'фантастика'}, {'name': 'приключения'}, {'name': 'боевик'}]",[{'name': 'США'}]
+tt0448011,https://st.kp.yandex.net/images/film_big/102510.jpg,2009,102510,movie,"[{'name': 'фантастика'}, {'name': 'боевик'}]","[{'name': 'США'}, {'name': 'Великобритания'}, {'name': 'Австралия'}]"
+tt0465580,https://st.kp.yandex.net/images/film_big/105397.jpg,2009,105397,movie,"[{'name': 'фантастика'}, {'name': 'боевик'}, {'name': 'триллер'}]","[{'name': 'США'}, {'name': 'Канада'}]"
+,https://st.kp.yandex.net/images/film_big/413485.jpg,2009,413485,movie,"[{'name': 'ужасы'}, {'name': 'фэнтези'}, {'name': 'комедия'}]","[{'name': 'Канада'}, {'name': 'США'}]"
+tt1298650,https://st.kp.yandex.net/images/film_big/427076.jpg,2011,427076,movie,"[{'name': 'приключения'}, {'name': 'боевик'}, {'name': 'фэнтези'}, {'name': 'комедия'}]","[{'name': 'США'}, {'name': 'Великобритания'}]"
+tt0473075,https://st.kp.yandex.net/images/film_big/195394.jpg,2010,195394,movie,"[{'name': 'фэнтези'}, {'name': 'боевик'}, {'name': 'приключения'}]",[{'name': 'США'}]
+tt1464540,https://st.kp.yandex.net/images/film_big/468872.jpg,2011,468872,movie,"[{'name': 'фантастика'}, {'name': 'боевик'}, {'name': 'триллер'}, {'name': 'приключения'}]","[{'name': 'США'}, {'name': 'Индия'}]"
+tt1334035,https://st.kp.yandex.net/images/film_big/404377.jpg,2008,404377,movie,"[{'name': 'триллер'}, {'name': 'комедия'}, {'name': 'детектив'}]",[{'name': 'Россия'}]
+tt1136608,https://st.kp.yandex.net/images/film_big/397494.jpg,2009,397494,movie,"[{'name': 'фантастика'}, {'name': 'триллер'}, {'name': 'боевик'}, {'name': 'драма'}]","[{'name': 'ЮАР'}, {'name': 'США'}, {'name': 'Новая Зеландия'}, {'name': 'Канада'}]"
+tt1569465,https://st.kp.yandex.net/images/film_big/416090.jpg,2010,416090,movie,[{'name': 'комедия'}],[{'name': 'Россия'}]
+tt1796603,https://st.kp.yandex.net/images/film_big/468189.jpg,2011,468189,movie,[{'name': 'комедия'}],[{'name': 'Россия'}]
+tt1104001,https://st.kp.yandex.net/images/film_big/399959.jpg,2010,399959,movie,"[{'name': 'фантастика'}, {'name': 'боевик'}, {'name': 'приключения'}]",[{'name': 'США'}]
+tt0822832,https://st.kp.yandex.net/images/film_big/279850.jpg,2008,279850,movie,"[{'name': 'драма'}, {'name': 'комедия'}, {'name': 'семейный'}]",[{'name': 'США'}]
+tt1247640,https://st.kp.yandex.net/images/film_big/418794.jpg,2009,418794,movie,"[{'name': 'боевик'}, {'name': 'триллер'}, {'name': 'криминал'}]",[{'name': 'Франция'}]
+tt0990407,https://st.kp.yandex.net/images/film_big/290751.jpg,2011,290751,movie,"[{'name': 'боевик'}, {'name': 'комедия'}, {'name': 'криминал'}]",[{'name': 'США'}]
+tt0418763,https://st.kp.yandex.net/images/film_big/81728.jpg,2005,81728,movie,"[{'name': 'драма'}, {'name': 'военный'}, {'name': 'биография'}]","[{'name': 'США'}, {'name': 'Великобритания'}, {'name': 'Германия'}]"
+tt0926084,https://st.kp.yandex.net/images/film_big/276762.jpg,2010,276762,movie,"[{'name': 'фэнтези'}, {'name': 'приключения'}, {'name': 'семейный'}]","[{'name': 'Великобритания'}, {'name': 'США'}]"
+tt1014759,https://st.kp.yandex.net/images/film_big/405609.jpg,2010,405609,movie,"[{'name': 'фэнтези'}, {'name': 'детектив'}, {'name': 'приключения'}, {'name': 'семейный'}]","[{'name': 'США'}, {'name': 'Великобритания'}]"
+tt0938283,https://st.kp.yandex.net/images/film_big/417855.jpg,2010,417855,movie,"[{'name': 'фэнтези'}, {'name': 'боевик'}, {'name': 'приключения'}, {'name': 'семейный'}]",[{'name': 'США'}]
+tt0183649,https://st.kp.yandex.net/images/film_big/305.jpg,2002,305,movie,"[{'name': 'триллер'}, {'name': 'криминал'}]",[{'name': 'США'}]
+tt0446029,https://st.kp.yandex.net/images/film_big/105948.jpg,2010,105948,movie,"[{'name': 'фэнтези'}, {'name': 'боевик'}, {'name': 'мелодрама'}, {'name': 'комедия'}]","[{'name': 'США'}, {'name': 'Великобритания'}, {'name': 'Канада'}, {'name': 'Япония'}]"
+tt0409459,https://st.kp.yandex.net/images/film_big/252641.jpg,2009,252641,movie,"[{'name': 'фантастика'}, {'name': 'боевик'}, {'name': 'драма'}, {'name': 'детектив'}]",[{'name': 'США'}]
+tt1250777,https://st.kp.yandex.net/images/film_big/419200.jpg,2010,419200,movie,"[{'name': 'боевик'}, {'name': 'комедия'}, {'name': 'триллер'}, {'name': 'криминал'}]","[{'name': 'Великобритания'}, {'name': 'США'}]"
+tt1620464,https://st.kp.yandex.net/images/film_big/474787.jpg,2010,474787,movie,"[{'name': 'комедия'}, {'name': 'криминал'}, {'name': 'детектив'}]",[{'name': 'Россия'}]
+tt0889583,https://st.kp.yandex.net/images/film_big/271802.jpg,2009,271802,movie,[{'name': 'комедия'}],"[{'name': 'США'}, {'name': 'Великобритания'}]"
+tt1564585,https://st.kp.yandex.net/images/film_big/493223.jpg,2010,493223,movie,"[{'name': 'фантастика'}, {'name': 'боевик'}]",[{'name': 'США'}]
+tt1053424,https://st.kp.yandex.net/images/film_big/391277.jpg,2009,391277,movie,"[{'name': 'фантастика'}, {'name': 'боевик'}, {'name': 'триллер'}]",[{'name': 'США'}]
+tt1307065,https://st.kp.yandex.net/images/film_big/429836.jpg,2009,429836,movie,"[{'name': 'мелодрама'}, {'name': 'комедия'}]","[{'name': 'США'}, {'name': 'Дания'}]"
+tt0120660,https://st.kp.yandex.net/images/film_big/3954.jpg,1998,3954,movie,"[{'name': 'боевик'}, {'name': 'триллер'}]",[{'name': 'США'}]
+tt0963966,https://st.kp.yandex.net/images/film_big/429739.jpg,2010,429739,movie,"[{'name': 'фэнтези'}, {'name': 'боевик'}, {'name': 'приключения'}, {'name': 'семейный'}]",[{'name': 'США'}]
+tt0799949,https://st.kp.yandex.net/images/film_big/260526.jpg,2007,260526,movie,"[{'name': 'фэнтези'}, {'name': 'комедия'}, {'name': 'приключения'}]",[{'name': 'США'}]
+tt0960790,https://st.kp.yandex.net/images/film_big/279627.jpg,2007,279627,movie,"[{'name': 'мелодрама'}, {'name': 'комедия'}]",[{'name': 'Германия'}]
+tt1520211,https://st.kp.yandex.net/images/film_big/508161.jpg,2010,508161,tv-series,"[{'name': 'ужасы'}, {'name': 'триллер'}, {'name': 'драма'}]",[{'name': 'США'}]
+tt0944835,https://st.kp.yandex.net/images/film_big/447284.jpg,2010,447284,movie,"[{'name': 'боевик'}, {'name': 'триллер'}]",[{'name': 'США'}]
+tt0414993,https://st.kp.yandex.net/images/film_big/81583.jpg,2006,81583,movie,"[{'name': 'фантастика'}, {'name': 'драма'}, {'name': 'мелодрама'}, {'name': 'детектив'}]","[{'name': 'Канада'}, {'name': 'США'}]"
+tt0366627,https://st.kp.yandex.net/images/film_big/47382.jpg,2004,47382,movie,"[{'name': 'триллер'}, {'name': 'фантастика'}, {'name': 'детектив'}, {'name': 'драма'}]","[{'name': 'США'}, {'name': 'Германия'}]"
+tt0814255,https://st.kp.yandex.net/images/film_big/403986.jpg,2010,403986,movie,"[{'name': 'фэнтези'}, {'name': 'приключения'}, {'name': 'семейный'}]",[{'name': 'США'}]
+tt1590125,https://st.kp.yandex.net/images/film_big/468123.jpg,2010,468123,movie,"[{'name': 'фантастика'}, {'name': 'боевик'}, {'name': 'приключения'}, {'name': 'военный'}]",[{'name': 'Россия'}]
+tt1192431,https://st.kp.yandex.net/images/film_big/260315.jpg,2008,260315,movie,"[{'name': 'фантастика'}, {'name': 'боевик'}, {'name': 'приключения'}, {'name': 'военный'}, {'name': 'история'}]",[{'name': 'Россия'}]
+tt1620549,https://st.kp.yandex.net/images/film_big/451258.jpg,2010,451258,movie,"[{'name': 'боевик'}, {'name': 'фантастика'}, {'name': 'приключения'}]",[{'name': 'Россия'}]
+tt1532382,https://st.kp.yandex.net/images/film_big/424516.jpg,2009,424516,movie,"[{'name': 'боевик'}, {'name': 'фантастика'}, {'name': 'приключения'}]",[{'name': 'Россия'}]
+tt0429493,https://st.kp.yandex.net/images/film_big/96452.jpg,2010,96452,movie,"[{'name': 'боевик'}, {'name': 'триллер'}, {'name': 'комедия'}, {'name': 'приключения'}]","[{'name': 'США'}, {'name': 'Великобритания'}]"
+tt1068680,https://st.kp.yandex.net/images/film_big/391772.jpg,2008,391772,movie,[{'name': 'комедия'}],"[{'name': 'США'}, {'name': 'Великобритания'}]"
+tt0796366,https://st.kp.yandex.net/images/film_big/255129.jpg,2009,255129,movie,"[{'name': 'фантастика'}, {'name': 'боевик'}, {'name': 'приключения'}]","[{'name': 'США'}, {'name': 'Германия'}]"
+tt1119646,https://st.kp.yandex.net/images/film_big/426004.jpg,2009,426004,movie,[{'name': 'комедия'}],[{'name': 'США'}]
+,https://st.kp.yandex.net/images/film_big/406397.jpg,2009,406397,movie,"[{'name': 'фэнтези'}, {'name': 'комедия'}, {'name': 'семейный'}, {'name': 'спорт'}]","[{'name': 'США'}, {'name': 'Канада'}]"
+tt1179904,https://st.kp.yandex.net/images/film_big/404366.jpg,2007,404366,movie,"[{'name': 'ужасы'}, {'name': 'детектив'}]",[{'name': 'США'}]
+tt0443453,https://st.kp.yandex.net/images/film_big/102474.jpg,2006,102474,movie,[{'name': 'комедия'}],"[{'name': 'США'}, {'name': 'Великобритания'}]"
+tt1028532,https://st.kp.yandex.net/images/film_big/387556.jpg,2008,387556,movie,"[{'name': 'драма'}, {'name': 'семейный'}, {'name': 'биография'}]","[{'name': 'США'}, {'name': 'Великобритания'}]"
+tt1156398,https://st.kp.yandex.net/images/film_big/427122.jpg,2009,427122,movie,"[{'name': 'ужасы'}, {'name': 'комедия'}, {'name': 'боевик'}]",[{'name': 'США'}]
+tt0499549,https://st.kp.yandex.net/images/film_big/251733.jpg,2009,251733,movie,"[{'name': 'фантастика'}, {'name': 'боевик'}, {'name': 'драма'}, {'name': 'приключения'}]",[{'name': 'США'}]
