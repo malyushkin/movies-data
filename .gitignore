@@ -247,3 +247,4 @@ metabase/*
 data/kinopoisk/env.sh
 data/kinopoisk/csv/ignore/*
 *.ipynb
+/data/envs.sh
