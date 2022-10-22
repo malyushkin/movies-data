@@ -238,8 +238,12 @@ ipython_config.py
 #   git rm -r .ipynb_checkpoints/
 
 # Add ENV values
+data/kinopoisk/env.sh
 kinopoisk/env.sh
 
 # Metabase
 metabase/*
 
+data/kinopoisk/env.sh
+data/kinopoisk/csv/*
+*.ipynb
